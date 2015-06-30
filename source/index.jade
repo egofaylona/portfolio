@@ -1,0 +1,885 @@
+doctype html
+//if lt IE 7
+  html.no-js.lt-ie9.lt-ie8.lt-ie7(lang='')  
+//if IE 7
+  html.no-js.lt-ie9.lt-ie8(lang='')  
+//if IE 8
+  html.no-js.lt-ie9(lang='')  
+// [if gt IE 8] <!
+html.no-js(lang='')
+  // <![endif]
+  head
+    meta(charset='utf-8')
+    // Site Title
+    title BERG - Creative Resume Template
+    meta(name='description', content='Creative Resume Template')
+    meta(name='keywords', content='berg, creative, resume, template')
+    meta(name='viewport', content='width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no')
+    // Google Font
+    link(href='http://fonts.googleapis.com/css?family=Lato:400,700', rel='stylesheet', type='text/css')
+    link(href='http://fonts.googleapis.com/css?family=Raleway:400,700', rel='stylesheet', type='text/css')
+    // Bootstrap Core CSS
+    link(href='assets/plugins/bootstrap/css/bootstrap.min.css', rel='stylesheet', type='text/css')
+    // Font icons CSS
+    link(href='assets/plugins/icons-mind/style.css', rel='stylesheet', type='text/css')
+    link(href='assets/plugins/fontawesome/css/font-awesome.min.css', rel='stylesheet', type='text/css')
+    // Plugins CSS
+    link(href='assets/plugins/jpreloader/css/jpreloader.css', rel='stylesheet', type='text/css')
+    link(href='assets/plugins/animate-css/animate.min.css', rel='stylesheet', type='text/css')
+    link(href='assets/plugins/magnificPopup/magnific-popup.css', rel='stylesheet', type='text/css')
+    link(href='assets/plugins/flexSlider/flexslider.css', rel='stylesheet', type='text/css')
+    // Main CSS
+    link(href='assets/css/berg.css', rel='stylesheet', type='text/css')
+    // Color CSS
+    // <link href="assets/css/colors/green.css" rel="stylesheet" type="text/css">
+    // Modernizr JS for IE8 support of HTML5 elements and media queries
+    //if lt IE 8
+      script(src='assets/plugins/modernizr.min.js')
+  // The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function
+  body#page-top(data-spy='scroll', data-target='.navbar-fixed-top', data-offset='66')
+    //if lt IE 7
+      p.browserupgrade
+        | You are using an 
+        strong outdated
+        |  browser. Please 
+        a(href='http://browsehappy.com/') upgrade your browser
+        |  to improve your experience.
+    // HERO START
+    header#home.hero.parallax-yes
+      .pattern-overlay
+      #parallax-1.parallax
+        .bcg.skrollable.skrollable-between(data-anchor-target='#parallax-1', data-center='background-position: 50% 0px;', data-top-bottom='background-position: 50% -100px;', data-bottom-top='background-position: 50% 100px;')
+          .hero-body
+            .hero-text.text-center
+              h1.small
+                | I'm Nick Berg 
+                span.blinker
+              h1 Creative Developer
+              p 28 years young, husband and father, coffee addict.
+              .page-scroll
+                a.btn.btn-lg.btn-custom(href='#profile')
+                  | Know Me Better
+              // //.page-scroll
+            // //.hero-text
+          // //.hero-body
+        // //.bcg
+      // //.parallax
+    // //HERO END
+    
+    include partials/navigation.jade
+    include partials/portfolio.jade
+    include partials/profile.jade
+    
+    include partials/services.jade
+    
+    // STRENGHTS SECTION START
+    section#strenghts.section.bg-image-yes
+      .container-fluid.section-wrapper
+        .section-content
+          .row
+            .col-md-8.col-md-offset-2.text-center
+              h2.section-title.uppercase My Strenghts
+              p.section-subtitle Failure will never overtake me if my determination to succeed is strong enough.
+              span.divider.center
+            // //.col-md-8
+          // //.row
+          .row
+            .col-md-12
+              // COLUMN CHART START
+              .column-chart
+                .legend.legend-left.hidden-xs
+                  h3.legend-title ME
+                // //.legend
+                .legend.legend-right.hidden-xs
+                  .item
+                    h4 Superhero
+                  // //.item
+                  .item
+                    h4 Preety Good
+                  // //.item
+                  .item
+                    h4 Good
+                  // //.item
+                  .item
+                    h4 Newbie
+                  // //.item
+                // //.legend
+                .chart.clearfix
+                  .item
+                    .bar
+                      span.percent 92%
+                      .item-progress(data-percent='92')
+                        span.title.uppercase Creativity
+                      // //.item-progress
+                    // //.bar
+                  // //.item
+                  .item
+                    .bar
+                      span.percent 71%
+                      .item-progress(data-percent='71')
+                        span.title.uppercase Reliable
+                      // //.item-progress
+                    // //.bar
+                  // //.item
+                  .item
+                    .bar
+                      span.percent 82%
+                      .item-progress(data-percent='82')
+                        span.title.uppercase Comunication
+                      // //.item-progress
+                    // //.bar
+                  // //.item
+                  .item
+                    .bar
+                      span.percent 58%
+                      .item-progress(data-percent='58')
+                        span.title.uppercase Leadership
+                      // //.item-progress
+                    // //.bar
+                  // //.item
+                  .item
+                    .bar
+                      span.percent 67%
+                      .item-progress(data-percent='67')
+                        span.title.uppercase Persuasion
+                      // //.item-progress
+                    // //.bar
+                  // //.item
+                // //.chart
+              // //COLUMN CHART END
+            // //.col-md-12
+          // //.row
+        // //.section-content
+      // //.container
+    // //STRENGHTS SECTION END
+    // RESUME SECTION START
+    section#resume.section
+      .container.section-wrapper
+        .section-content
+          .row
+            .col-md-8.col-md-offset-2.text-center
+              h2.section-title.uppercase My Resume
+              p.section-subtitle
+                | If you call failures experiments, you can put them in your resume and claim them as achievements.
+              span.divider.center
+            // //.col-md-8
+          // //.row
+          // EDUCATION START
+          .row.education
+            .col-md-10.col-md-offset-1
+              h3
+                | My Education
+                br
+                |                             2003 - 2012
+              #education.panel-group.resume
+                .resume-item
+                  .resume-year
+                    span.resume-year 2010 - 2012
+                  // //.resume-year
+                  .resume-btn
+                    a(href='#education1', data-toggle='collapse', data-parent='#education')
+                  // //.resume-btn
+                  .panel
+                    .panel-heading
+                      .panel-title
+                        h4.resume-title Masters Degree - University Name
+                      // //.panel-title
+                    // //.panel-heading
+                    #education1.panel-collapse.collapse.in
+                      .panel-body.text-grey
+                        p
+                          | Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                      // //.panel-body
+                    // //.panel-collapse
+                  // //.panel
+                // //.resume-item
+                .resume-item
+                  .resume-year
+                    span.resume-year 2005 - 2008
+                  // //.resume-year
+                  .resume-btn
+                    a.collapsed(href='#education2', data-toggle='collapse', data-parent='#education')
+                  // //.resume-btn
+                  .panel
+                    .panel-heading
+                      .panel-title
+                        h4.resume-title Bachelors Degree - University Name
+                      // //.panel-title
+                    // //.panel-heading
+                    #education2.panel-collapse.collapse
+                      .panel-body.text-grey
+                        p
+                          | Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                      // //.panel-body
+                    // //.panel-collapse
+                  // //.panel
+                // //.resume-item
+                .resume-item
+                  .resume-year
+                    span.resume-year 2003 - 2005
+                  // //.resume-year
+                  .resume-btn
+                    a.collapsed(href='#education3', data-toggle='collapse', data-parent='#education')
+                  // //.resume-btn
+                  .panel
+                    .panel-heading
+                      .panel-title
+                        h4.resume-title Graduation - College Name
+                      // //.panel-title
+                    // //.panel-heading
+                    #education3.panel-collapse.collapse
+                      .panel-body.text-grey
+                        p
+                          | Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+                      // //.panel-body
+                    // //.panel-collapse
+                  // //.panel
+                // //.resume-item
+              // //.panel-group
+            // //.col-md-10
+          // //EDUCATION END
+          // WORK EXPERIENCE START
+          .row.work-experience
+            .col-md-10.col-md-offset-1
+              h3
+                | Work Experience
+                br
+                |                             2006 - Now
+              #work.panel-group.resume
+                .resume-item
+                  .resume-year
+                    span.resume-year 2013 - Now
+                  // //.resume-year
+                  .resume-btn
+                    a(href='#work1', data-toggle='collapse', data-parent='#work')
+                  // //.resume-btn
+                  .panel
+                    .panel-heading
+                      .panel-title
+                        h4.resume-title Senior Designer - Galley La Company
+                      // //.panel-title
+                    // //.panel-heading
+                    #work1.panel-collapse.collapse.in
+                      .panel-body.text-grey
+                        p
+                          | Responsibilities:
+                          br
+                          |                                                 Design of print collateral and websites for various clients and markets, development of new and existing brands, 3D modeling of floor and site plans.
+                      // //.panel-body
+                    // //.panel-collapse
+                  // //.panel
+                // //.resume-item
+                .resume-item
+                  .resume-year
+                    span.resume-year 2010 - 2013
+                  // //.resume-year
+                  .resume-btn
+                    a.collapsed(href='#work2', data-toggle='collapse', data-parent='#work')
+                  // //.resume-btn
+                  .panel
+                    .panel-heading
+                      .panel-title
+                        h4.resume-title Graphic Designer - Company Name
+                      // //.panel-title
+                    // //.panel-heading
+                    #work2.panel-collapse.collapse
+                      .panel-body.text-grey
+                        p
+                          | Responsibilities:
+                          br
+                          |                                                 Design of print collateral and trade show displays, redesign of company website and microsites, design and development of email blasts, development of brands for affiliate organizations.
+                      // //.panel-body
+                    // //.panel-collapse
+                  // //.panel
+                // //.resume-item
+                .resume-item
+                  .resume-year
+                    span.resume-year 2007 - 2010
+                  // //.resume-year
+                  .resume-btn
+                    a.collapsed(href='#work3', data-toggle='collapse', data-parent='#work')
+                  // //.resume-btn
+                  .panel
+                    .panel-heading
+                      .panel-title
+                        h4.resume-title IT Specialist - Company Name
+                      // //.panel-title
+                    // //.panel-heading
+                    #work3.panel-collapse.collapse
+                      .panel-body.text-grey
+                        p
+                          | Responsibilities:
+                          br
+                          |                                                 Filming and editing of promotional videos, administration of system and network integrity.
+                      // //.panel-body
+                    // //.panel-collapse
+                  // //.panel
+                // //.resume-item
+                .resume-item
+                  .resume-year
+                    span.resume-year 2006 - 2007
+                  // //.resume-year
+                  .resume-btn
+                    a.collapsed(href='#work4', data-toggle='collapse', data-parent='#work')
+                  // //.resume-btn
+                  .panel
+                    .panel-heading
+                      .panel-title
+                        h4.resume-title Graphic Designer Intern - Company Name
+                      // //.panel-title
+                    // //.panel-heading
+                    #work4.panel-collapse.collapse
+                      .panel-body.text-grey
+                        p
+                          | Responsibilities:
+                          br
+                          |                                                 Redesign of brand guidelines and standards microsite, design of departmental logo lock-ups, photography of products for marketing collateral, design of corporate Twitter layout.
+                      // //.panel-body
+                    // //.panel-collapse
+                  // //.panel
+                // //.resume-item
+              // //.panel-group
+            // //.col-md-10
+          // //WORK EXPERIENCE END
+        // //.section-content
+      // //.container
+    // //RESUME SECTION END
+    // REFERENCES SECTION START
+    section#references.section.bg-image-yes
+      .container-fluid.section-wrapper
+        .section-content
+          .row
+            .col-md-12.text-center
+              h2.section-title.uppercase References
+              p.section-subtitle Testimonials are enough to convince people for now.
+              span.divider.center
+            // //.col-md-12
+          // //.row
+          .row
+            .col-md-10.col-md-offset-1
+              .flexslider.references
+                .slides
+                  .item
+                    .animated(data-animation-effect='flipInX')
+                      .profile.hidden-xs
+                        img.img-responsive.img-circle.img-thumbnail(src='assets/images/references/profile-image-1.jpg', alt='')
+                      .content
+                        h3 Lorena Group
+                        p
+                          | "Berg is officially the man! His level of professionalism and the understanding of the subject matter is the reason i will be looking forward to working with him in the future."
+                        p.source
+                          | Eka Sari Lorena
+                          br
+                          span President Director
+                      // //.content
+                    // //.animated
+                  // //.item
+                  .item
+                    .animated(data-animation-effect='flipInX')
+                      .profile.hidden-xs
+                        img.img-responsive.img-circle.img-thumbnail(src='assets/images/references/profile-image-2.jpg', alt='')
+                      .content
+                        h3 NET TV
+                        p
+                          | "As always Berg did an excellent job in just few hours. Great communication and fast excecution. Thanks for great work :)"
+                        p.source
+                          | Wishnutama Kusubandio
+                          br
+                          span CO-FOUNDER / CEO
+                      // //.content
+                    // //.animated
+                  // //.item
+                  .item
+                    .animated(data-animation-effect='flipInX')
+                      .profile.hidden-xs
+                        img.img-responsive.img-circle.img-thumbnail(src='assets/images/references/profile-image-3.jpg', alt='')
+                      .content
+                        h3 MNC Group
+                        p
+                          | "As always, great creative thinking for the best solution. Berg is by far the most professional and knowledgeable provider I worked with. I will hire him again :)"
+                        p.source
+                          | Hary Tanoesoedibjo
+                          br
+                          span President Director
+                      // //.content
+                    // //.animated
+                  // //.item
+                  .item
+                    .animated(data-animation-effect='flipInX')
+                      .profile.hidden-xs
+                        img.img-responsive.img-circle.img-thumbnail(src='assets/images/references/profile-image-4.jpg', alt='')
+                      .content
+                        h3 CT Corp
+                        p
+                          | "We called on Berg to help us deliver on few projects with tight deadlines. He seamlessly integrated into our workflow and quickly became a key part of our team. Great job!"
+                        p.source
+                          | Chairul Tanjung
+                          br
+                          span Founder and Chairman
+                      // //.content
+                    // //.animated
+                  // //.item
+                  .item
+                    .animated(data-animation-effect='flipInX')
+                      .profile.hidden-xs
+                        img.img-responsive.img-circle.img-thumbnail(src='assets/images/references/profile-image-5.jpg', alt='')
+                      .content
+                        h3 Mustika Ratu
+                        p
+                          | "Berg technical knowledge and branding experience came together and resulted in a site that is not only catching and interesting, but also one that is user-friendly. Thanks again."
+                        p.source
+                          | Mooryati Soedibyo
+                          br
+                          span President Director
+                      // //.content
+                    // //.animated
+                  // //.item
+                // //.slides
+                .flexslider-controls
+                  ul.flex-control-nav
+                    li
+                      img.img-responsive(src='assets/images/references/profile-image-1.jpg', alt='')
+                    li
+                      img.img-responsive(src='assets/images/references/profile-image-2.jpg', alt='')
+                    li
+                      img.img-responsive(src='assets/images/references/profile-image-3.jpg', alt='')
+                    li
+                      img.img-responsive(src='assets/images/references/profile-image-4.jpg', alt='')
+                    li
+                      img.img-responsive(src='assets/images/references/profile-image-5.jpg', alt='')
+                // //.flexslider-controls
+                ul.flex-direction-nav-custom.list-inline.hidden-xs
+                  li
+                    a.flex-prev(href='#')
+                      i.icon-Left-3
+                  li
+                    a.flex-next(href='#')
+                      i.icon-Right-3
+              // //.flexslider
+            // //.col-md-8
+          // //.row
+        // //.section-content
+      // //.container
+    // //REFERENCES SECTION END
+    // SKILLS SECTION START
+    section#skills.section
+      .container.section-wrapper
+        .section-content
+          .row
+            .col-md-8.col-md-offset-2.text-center
+              h2.section-title.uppercase Skills & Expertise
+              p.section-subtitle
+                | A winner is someone who recognizes his God-given talents, works his tail off to develop them into skills, and uses these skills to accomplish his goals.
+              span.divider.center
+            // //.col-md-8
+          // //.row
+          // CIRCLE CHART START
+          .circle-chart
+            .row
+              .col-sm-4.col-md-2
+                .item
+                  .circle
+                    span.item-progress(data-percent='45')
+                  // //.circle
+                  span.percent 45%
+                  h4.text-center.uppercase HTML5 + CSS3
+                // //.item
+              // //.col-md-2
+              .col-sm-4.col-md-2
+                .item
+                  .circle
+                    span.item-progress(data-percent='65')
+                  // //.circle
+                  span.percent 65%
+                  h4.text-center.uppercase Angular JS
+                // //.item
+              // //.col-md-2
+              .col-sm-4.col-md-2
+                .item
+                  .circle
+                    span.item-progress(data-percent='55')
+                  // //.circle
+                  span.percent 55%
+                  h4.text-center.uppercase Laravel
+                // //.item
+              // //.col-md-2
+              .col-sm-4.col-md-2
+                .item
+                  .circle
+                    span.item-progress(data-percent='45')
+                  // //.circle
+                  span.percent 45%
+                  h4.text-center.uppercase Photoshop
+                // //.item
+              // //.col-md-2
+              .col-sm-4.col-md-2
+                .item
+                  .circle
+                    span.item-progress(data-percent='65')
+                  // //.circle
+                  span.percent 65%
+                  h4.text-center.uppercase Cinema 4D
+                // //.item
+              // //.col-md-2
+              .col-sm-4.col-md-2
+                .item.last
+                  .circle
+                    span.item-progress(data-percent='55')
+                  // //.circle
+                  span.percent 55%
+                  h4.text-center.uppercase After Effects
+                // //.item
+              // //.col-md-2
+            // //.row
+          // //CIRCLE CHART END
+        // //.section-content
+      // //.container
+    // //SKILLS SECTION END
+    // KNOWLEDGE SECTION START
+    section#knowledge.section
+      .container.section-wrapper
+        .section-content
+          .row
+            .col-md-8.col-md-offset-2.text-center
+              h2.section-title.uppercase Knowledge
+              p.section-subtitle Human behavior flows from three main sources: desire, emotion, and knowledge.
+              span.divider.center
+            // //.col-md-8
+          // //.row
+          // BAR CHART START
+          .row
+            .col-sm-6.col-md-6
+              .bar-chart
+                .item
+                  h4.uppercase Brand Marketing
+                  .bar
+                    span.percent 45%
+                    span.item-progress(data-percent='45')
+                  // //.bar
+                // //.item
+                .item
+                  h4.uppercase Web Development
+                  .bar
+                    span.percent 65%
+                    span.item-progress(data-percent='65')
+                  // //.bar
+                // //.item
+                .item
+                  h4.uppercase Digital Design
+                  .bar
+                    span.percent 55%
+                    span.item-progress(data-percent='55')
+                  // //.bar
+                // //.item
+              // //.bar-chart
+            // //.col-md-6
+            .col-sm-6.col-md-6
+              .bar-chart
+                .item
+                  h4.uppercase Brand Design
+                  .bar
+                    span.percent 45%
+                    span.item-progress(data-percent='45')
+                  // //.bar
+                // //.item
+                .item
+                  h4.uppercase Internet Marketing
+                  .bar
+                    span.percent 65%
+                    span.item-progress(data-percent='65')
+                  // //.bar
+                // //.item
+                .item
+                  h4.uppercase Video Editing
+                  .bar
+                    span.percent 55%
+                    span.item-progress(data-percent='55')
+                  // //.bar
+                // //.item
+              // //.bar-chart
+            // //.col-md-6
+          // //BAR CHART END
+        // //.section-content
+      // //.container
+    // //KNOWLEDGE SECTION END
+    // ACCOLADES SECTION START
+    section#accolades.section
+      .container.section-wrapper
+        .section-content
+          .row
+            .col-md-8.col-md-offset-2.text-center
+              h2.section-title.uppercase Accolades
+              p.section-subtitle
+                | The accolades, just like the scrapes and bruises, fade in the end, and all you're left with is your ambition.
+              span.divider.center
+            // //.col-md-8
+          // //.row
+          .row
+            .col-md-6.col-md-offset-3
+              // ACCOLADES START
+              .accolades
+                .item
+                  i.icon-Twitter
+                  .content
+                    h3 Marketing Excellence Awards 2014
+                    p.text-grey Excellence in Social Media Marketing
+                  // //.content
+                // //.item
+                .item
+                  i.icon-Idea-2
+                  .content
+                    h3 The "Big Idea" Competition 2012
+                    p.text-grey Top 3 Team
+                  // //.content
+                // //.item
+                .item
+                  i.icon-Brush
+                  .content
+                    h3 Water Seven Art Directors Club Awards 2010
+                    p.text-grey Finalist - Design
+                    p.text-grey Finalist - Print Ad
+                  // //.content
+                // //.item
+                .item
+                  i.icon-Funky
+                  .content
+                    h3 Young Guns Award 2009
+                    p.text-grey Finalist - Digital Campaign
+                  // //.content
+                // //.item
+              // //ACCOLADES END
+              .bookmark.text-grey.text-center
+                i.icon-Bookmark
+              // //.bookmark
+            // //.col-md-6
+          // //.row
+        // //.section-content
+      // //.container
+    // //ACCOLADES SECTION END
+    // MILESTONES SECTION START
+    section#milestones.section.bg-image-yes
+      .container-fluid.section-wrapper
+        .section-content
+          .row
+            .col-md-8.col-md-offset-2.text-center
+              h2.section-title.uppercase Milestones Achieved
+              p.section-subtitle
+                | My path has not been determined. I shall have more experiences and pass many more milestones.
+              span.divider.center
+            // //.col-md-8
+          // //.row
+          // MILESTONES START
+          .milestones
+            .row
+              .col-sm-6.col-md-3.item
+                .circle
+                  i.icon-Coffee
+                // //.circle
+                span.number(data-from='10', data-to='5012', data-refresh-interval='100')
+                  | 10
+                h4 Cups of Coffee
+              // //.item
+              .col-sm-6.col-md-3.item
+                .circle
+                  i.icon-Clock
+                // //.circle
+                span.number(data-from='5', data-to='4210', data-refresh-interval='5')
+                  | 10
+                h4 Hours Worked
+              // //.item
+              .col-sm-6.col-md-3.item
+                .circle
+                  i.icon-Coding
+                // //.circle
+                span.number(data-from='10', data-to='505', data-refresh-interval='10')
+                  | 10
+                h4 Succesful Projects
+              // //.item
+              .col-sm-6.col-md-3.item
+                .circle
+                  i.icon-Smile
+                // //.circle
+                span.number(data-from='5', data-to='253', data-refresh-interval='5')
+                  | 5
+                h4 Happy Clients
+              // //.item
+            // //.row
+          // //MILESTONES END
+        // //.section-content
+      // //.container
+    // //MILESTONES SECTION END
+    // WORK PROCESS SECTION START
+    section#work-process.section
+      .container.section-wrapper
+        .section-content
+          .row
+            .col-md-12.text-center
+              h2.section-title.uppercase Work Process
+              p.section-subtitle
+                | As a human being, I'm work in process.
+              span.divider.center
+            // //.col-md-12
+          // //.row
+          .row
+            .col-md-12
+              p.text-grey.text-justify
+                | Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.
+            // //.col-md-12
+          // //.row
+          // WORK PROCESS START
+          .work-process
+            .row
+              .col-sm-2.col-md-2.item.no-margin.first
+                .inner-content
+                  i.icon-Light-Bulb2
+                  span.title 1. Idea
+                  span.dot
+                // //.inner-content
+                i.icon-Arrow.icon-Down-3
+              // //.item
+              .col-sm-2.col-md-2.item
+                .inner-content
+                  i.icon-Pencil
+                  span.title 2. Sketch
+                // //.inner-content
+                i.icon-Arrow.icon-Up-3
+              // //.item
+              .col-sm-2.col-md-2.item.no-margin
+                .inner-content
+                  i.icon-Monitor-2
+                  span.title 3. Design
+                // //.inner-content
+                i.icon-Arrow.icon-Down-3
+              // //.item
+              .col-sm-2.col-md-2.item
+                .inner-content
+                  i.icon-Coding
+                  span.title 4. Develop
+                // //.inner-content
+                i.icon-Arrow.icon-Up-3
+              // //.item
+              .col-sm-2.col-md-2.item.no-margin
+                .inner-content
+                  i.icon-Bug
+                  span.title 5. Test
+                // //.inner-content
+                i.icon-Arrow.icon-Down-3
+              // //.item
+              .col-sm-2.col-md-2.item.last
+                .inner-content
+                  i.icon-Rocket
+                  span.title 6. Launch
+                  span.dot
+                // //.inner-content
+              // //.item
+            // //.row
+          // //WORK PROCESS END
+          .row
+            .col-md-12
+              p.text-grey.text-justify
+                | Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+            // //.col-md-12
+          // //.row
+        // //.section-content
+      // //.container
+    // //WORK PROCESS SECTION END
+    // CONTACT SECTION START
+    section#contact.section
+      .container.section-wrapper
+        .section-content
+          .row
+            .col-md-12.text-center
+              h2.section-title.uppercase Contact Me
+              p.section-subtitle
+                | Have a project you'd like to discuss?
+              span.divider.center
+            // //.col-md-12
+          // //.row
+          .row
+            .col-md-12
+              // CONTACT DETAILS START
+              .contact-details.text-center
+                .speech-bubble
+                  i.icon-Speach-Bubble11
+                  h4.uppercase.text-grey
+                    | Say
+                    br
+                    | Hello
+                // //.speech-bubble
+                h2.uppercase
+                  | Nick 
+                  strong Berg
+                h4.text-grey hello@nickberg.com
+                span.divider.center
+              // //CONTACT DETAILS END
+            // //.col-md-12
+          // //.row
+        // //.section-content
+      // //.container
+    // //CONTACT SECTION END
+    // FOOTER START
+    footer.footer
+      .container
+        .row
+          .col-md-12
+            .page-scroll
+              a(href='#home')
+                i.icon-Arrow-Up
+            // //.page-scroll
+            ul.list-inline.social-icons
+              li
+                .item
+                  a(href='#', target='_blank')
+                    i.fa.fa-facebook
+                // //.item
+              li
+                .item
+                  a(href='#', target='_blank')
+                    i.fa.fa-twitter
+                // //.item
+              li
+                .item
+                  a(href='#', target='_blank')
+                    i.fa.fa-linkedin
+                // //.item
+              li
+                .item
+                  a(href='#', target='_blank')
+                    i.fa.fa-dribbble
+                // //.item
+              li
+                .item
+                  a(href='#', target='_blank')
+                    i.fa.fa-pinterest
+                // //.item
+          // //.col-md-12
+        // //.row
+        .row
+          .col-md-12
+            .copyright.text-center
+              p.text-grey © 2015 Nick Berg. All rights reserved.
+            // //.copyright
+          // //.col-md-12
+        // //.row
+      // //.container
+    // //FOOTER END
+    // Plugins JS
+    script(src='assets/plugins/jquery.min.js')
+    script(src='assets/plugins/bootstrap/js/bootstrap.min.js')
+    script(src='assets/plugins/jpreloader/js/jpreloader.min.js')
+    script(src='assets/plugins/detectmobilebrowser/detectmobilebrowser.js')
+    script(src='assets/plugins/debouncer/debouncer.js')
+    script(src='assets/plugins/easing/jquery.easing.min.js')
+    script(src='assets/plugins/sticky/jquery.sticky.js')
+    script(src='assets/plugins/inview/jquery.inview.min.js')
+    script(src='assets/plugins/matchHeight/jquery.matchHeight-min.js')
+    script(src='assets/plugins/magnificPopup/jquery.magnific-popup.min.js')
+    script(src='assets/plugins/flexSlider/jquery.flexslider-min.js')
+    script(src='assets/plugins/countTo/jquery.countTo.js')
+    script(src='assets/plugins/skrollr/skrollr.min.js')
+    // Main JS
+    script(src='assets/js/main.js')
+    // Parallax JS
+    script(src='assets/js/parallax.js')
+    // Animation JS (Optional)
+    script(src='assets/js/animation.js')
