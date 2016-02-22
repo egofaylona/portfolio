@@ -1,3061 +1,2529 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19033",
+"creatorBuild": "19115",
 "files": {
-	"\/assets\/css\/berg.css": {
-		"fileType": 16,
+	"\/about.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/berg.css",
+		"inputAbbreviatedPath": "\/about.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/css\/colors\/blue.css": {
-		"fileType": 16,
+	"\/contact.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/colors\/blue.css",
+		"inputAbbreviatedPath": "\/contact.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/css\/colors\/green.css": {
-		"fileType": 16,
+	"\/contact_me.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/colors\/green.css",
+		"inputAbbreviatedPath": "\/contact_me.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/css\/colors\/green2.css": {
+	"\/css\/animate.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/colors\/green2.css",
+		"inputAbbreviatedPath": "\/css\/animate.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/css\/colors\/orange.css": {
+	"\/css\/animsition.min.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/colors\/orange.css",
+		"inputAbbreviatedPath": "\/css\/animsition.min.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/css\/colors\/purple.css": {
+	"\/css\/base.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/colors\/purple.css",
+		"inputAbbreviatedPath": "\/css\/base.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/css\/colors\/red.css": {
+	"\/css\/dark.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/colors\/red.css",
+		"inputAbbreviatedPath": "\/css\/dark.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/css\/colors\/yellow.css": {
+	"\/css\/default-skin\/default-skin.css": {
 		"fileType": 16,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/css\/colors\/yellow.css",
+		"inputAbbreviatedPath": "\/css\/default-skin\/default-skin.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/assets\/images\/bg-hero.jpg": {
+	"\/css\/default-skin\/default-skin.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 547,
+		"inputAbbreviatedPath": "\/css\/default-skin\/default-skin.png",
+		"outputAbbreviatedPath": "\/css\/default-skin\/default-skin.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/font-awesome.min.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/font-awesome.min.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/images\/fancybox_overlay.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1003,
+		"inputAbbreviatedPath": "\/css\/images\/fancybox_overlay.png",
+		"outputAbbreviatedPath": "\/css\/images\/fancybox_overlay.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/images\/fancybox_sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4584,
+		"inputAbbreviatedPath": "\/css\/images\/fancybox_sprite.png",
+		"outputAbbreviatedPath": "\/css\/images\/fancybox_sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/images\/fancybox_sprite@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6830,
+		"inputAbbreviatedPath": "\/css\/images\/fancybox_sprite@2x.png",
+		"outputAbbreviatedPath": "\/css\/images\/fancybox_sprite@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/jquery.fancybox.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/jquery.fancybox.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/jquery.fullPage.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/jquery.fullPage.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/mb-comingsoon.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/mb-comingsoon.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/normalize.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/normalize.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/photoswipe.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/photoswipe.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/royal_preloader.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/royal_preloader.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/style.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/style.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/fontastic.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/fontastic.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/imac.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 131264,
+		"inputAbbreviatedPath": "\/imac.png",
+		"outputAbbreviatedPath": "\/imac.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/404-error.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12307,
+		"inputAbbreviatedPath": "\/images\/404-error.png",
+		"outputAbbreviatedPath": "\/images\/404-error.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/about-me-photo.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 45038,
-		"inputAbbreviatedPath": "\/assets\/images\/bg-hero.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/bg-hero.jpg",
+		"initialSize": 62488,
+		"inputAbbreviatedPath": "\/images\/about-me-photo.jpg",
+		"outputAbbreviatedPath": "\/images\/about-me-photo.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/bg-milestones.jpg": {
+	"\/images\/arch-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 45421,
-		"inputAbbreviatedPath": "\/assets\/images\/bg-milestones.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/bg-milestones.jpg",
+		"initialSize": 17420,
+		"inputAbbreviatedPath": "\/images\/arch-1.jpg",
+		"outputAbbreviatedPath": "\/images\/arch-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/bg-pattern.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2805,
-		"inputAbbreviatedPath": "\/assets\/images\/bg-pattern.png",
-		"outputAbbreviatedPath": "\/assets\/images\/bg-pattern.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/images\/bg-references.jpg": {
+	"\/images\/arch-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 45421,
-		"inputAbbreviatedPath": "\/assets\/images\/bg-references.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/bg-references.jpg",
+		"initialSize": 17420,
+		"inputAbbreviatedPath": "\/images\/arch-2.jpg",
+		"outputAbbreviatedPath": "\/images\/arch-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/bg-slideshow-1.jpg": {
+	"\/images\/arch-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 23861,
-		"inputAbbreviatedPath": "\/assets\/images\/bg-slideshow-1.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/bg-slideshow-1.jpg",
+		"initialSize": 17420,
+		"inputAbbreviatedPath": "\/images\/arch-3.jpg",
+		"outputAbbreviatedPath": "\/images\/arch-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/bg-slideshow-2.jpg": {
+	"\/images\/arch-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 24059,
-		"inputAbbreviatedPath": "\/assets\/images\/bg-slideshow-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/bg-slideshow-2.jpg",
+		"initialSize": 17420,
+		"inputAbbreviatedPath": "\/images\/arch-4.jpg",
+		"outputAbbreviatedPath": "\/images\/arch-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/bg-strenghts.jpg": {
+	"\/images\/big-photo-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 45421,
-		"inputAbbreviatedPath": "\/assets\/images\/bg-strenghts.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/bg-strenghts.jpg",
+		"initialSize": 25733,
+		"inputAbbreviatedPath": "\/images\/big-photo-1.jpg",
+		"outputAbbreviatedPath": "\/images\/big-photo-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-1.jpg": {
+	"\/images\/big-photo-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12630,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-1.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-1.jpg",
+		"initialSize": 25733,
+		"inputAbbreviatedPath": "\/images\/big-photo-2.jpg",
+		"outputAbbreviatedPath": "\/images\/big-photo-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-2.jpg": {
+	"\/images\/big-photo-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12386,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-2.jpg",
+		"initialSize": 25733,
+		"inputAbbreviatedPath": "\/images\/big-photo-3.jpg",
+		"outputAbbreviatedPath": "\/images\/big-photo-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-3.jpg": {
+	"\/images\/big-photo-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12756,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-3.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-3.jpg",
+		"initialSize": 25733,
+		"inputAbbreviatedPath": "\/images\/big-photo-4.jpg",
+		"outputAbbreviatedPath": "\/images\/big-photo-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-4.jpg": {
+	"\/images\/blog-post-10.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12243,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-4.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-4.jpg",
+		"initialSize": 17748,
+		"inputAbbreviatedPath": "\/images\/blog-post-10.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-5.jpg": {
+	"\/images\/blog-post-2.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12202,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-5.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-5.jpg",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/blog-post-2.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-6.jpg": {
+	"\/images\/blog-post-2_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12756,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-6.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-6.jpg",
+		"initialSize": 17361,
+		"inputAbbreviatedPath": "\/images\/blog-post-2_1.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-2_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-7.jpg": {
+	"\/images\/blog-post-3.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12704,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-7.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-7.jpg",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/blog-post-3.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/portfolio\/project-image-8.jpg": {
+	"\/images\/blog-post-3_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 12386,
-		"inputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-8.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/portfolio\/project-image-8.jpg",
+		"initialSize": 17748,
+		"inputAbbreviatedPath": "\/images\/blog-post-3_1.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-3_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/profile-picture-1.jpg": {
+	"\/images\/blog-post-4.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 17138,
-		"inputAbbreviatedPath": "\/assets\/images\/profile-picture-1.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/profile-picture-1.jpg",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/blog-post-4.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/profile-picture-2.jpg": {
+	"\/images\/blog-post-4_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 10341,
-		"inputAbbreviatedPath": "\/assets\/images\/profile-picture-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/profile-picture-2.jpg",
+		"initialSize": 17748,
+		"inputAbbreviatedPath": "\/images\/blog-post-4_1.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-4_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/profile-picture-3.jpg": {
+	"\/images\/blog-post-5.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 11683,
-		"inputAbbreviatedPath": "\/assets\/images\/profile-picture-3.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/profile-picture-3.jpg",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/blog-post-5.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/references\/profile-image-1.jpg": {
+	"\/images\/blog-post-5_1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1313,
-		"inputAbbreviatedPath": "\/assets\/images\/references\/profile-image-1.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/references\/profile-image-1.jpg",
+		"initialSize": 17748,
+		"inputAbbreviatedPath": "\/images\/blog-post-5_1.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-5_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/references\/profile-image-2.jpg": {
+	"\/images\/blog-post-6.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1313,
-		"inputAbbreviatedPath": "\/assets\/images\/references\/profile-image-2.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/references\/profile-image-2.jpg",
+		"initialSize": 17748,
+		"inputAbbreviatedPath": "\/images\/blog-post-6.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/references\/profile-image-3.jpg": {
+	"\/images\/blog-post-7.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1313,
-		"inputAbbreviatedPath": "\/assets\/images\/references\/profile-image-3.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/references\/profile-image-3.jpg",
+		"initialSize": 14846,
+		"inputAbbreviatedPath": "\/images\/blog-post-7.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/references\/profile-image-4.jpg": {
+	"\/images\/blog-post-8.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1313,
-		"inputAbbreviatedPath": "\/assets\/images\/references\/profile-image-4.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/references\/profile-image-4.jpg",
+		"initialSize": 15813,
+		"inputAbbreviatedPath": "\/images\/blog-post-8.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/images\/references\/profile-image-5.jpg": {
+	"\/images\/blog-post-9.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1313,
-		"inputAbbreviatedPath": "\/assets\/images\/references\/profile-image-5.jpg",
-		"outputAbbreviatedPath": "\/assets\/images\/references\/profile-image-5.jpg",
+		"initialSize": 17361,
+		"inputAbbreviatedPath": "\/images\/blog-post-9.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/map-marker-icon.png": {
-		"fileType": 32768,
+	"\/images\/blog-post.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1655,
-		"inputAbbreviatedPath": "\/assets\/img\/map-marker-icon.png",
-		"outputAbbreviatedPath": "\/assets\/img\/map-marker-icon.png",
+		"initialSize": 17748,
+		"inputAbbreviatedPath": "\/images\/blog-post.jpg",
+		"outputAbbreviatedPath": "\/images\/blog-post.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Aim_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3075,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Aim_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Aim_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Ask_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3095,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Ask_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Ask_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Bebo_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3025,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Bebo_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Bebo_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Behance_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3020,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Behance_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Behance_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Betvibes_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2926,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Betvibes_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Betvibes_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Bing_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3005,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Bing_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Bing_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Blinklist_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3082,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Blinklist_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Blinklist_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Blogger_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2979,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Blogger_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Blogger_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Brightkite_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3044,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Brightkite_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Brightkite_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Delicious_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2841,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Delicious_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Delicious_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Deviantart_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2980,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Deviantart_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Deviantart_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Digg_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2936,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Digg_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Digg_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Diigo_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2934,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Diigo_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Diigo_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Doplr_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2950,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Doplr_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Doplr_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Dribble_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3140,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Dribble_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Dribble_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Email_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2985,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Email_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Email_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Evernote_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3076,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Evernote_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Evernote_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Facebook-2_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2902,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Facebook-2_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Facebook-2_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Facebook_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2925,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Facebook_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Facebook_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Feedburner_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3161,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Feedburner_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Feedburner_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Flickr_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3063,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Flickr_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Flickr_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Formspring_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3147,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Formspring_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Formspring_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Forsquare_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3123,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Forsquare_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Forsquare_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Friendfeed_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2897,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Friendfeed_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Friendfeed_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Friendster_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3049,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Friendster_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Friendster_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Furl_24px.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2982,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Furl_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Furl_24px.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/assets\/img\/social-icons\/Google-Buzz_24px.png": {
+	"\/images\/dark-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3086,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Google-Buzz_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Google-Buzz_24px.png",
+		"inputAbbreviatedPath": "\/images\/dark-logo.png",
+		"outputAbbreviatedPath": "\/images\/dark-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Google-Plus_24px.png": {
+	"\/images\/e.f.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3140,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Google-Plus_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Google-Plus_24px.png",
+		"initialSize": 1047,
+		"inputAbbreviatedPath": "\/images\/e.f.png",
+		"outputAbbreviatedPath": "\/images\/e.f.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Google_24px.png": {
+	"\/images\/items\/logo-sm.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3007,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Google_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Google_24px.png",
+		"initialSize": 1047,
+		"inputAbbreviatedPath": "\/images\/items\/logo-sm.png",
+		"outputAbbreviatedPath": "\/images\/items\/logo-sm.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Gowalla_24px.png": {
+	"\/images\/items\/misc-ebooks-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3071,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Gowalla_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Gowalla_24px.png",
+		"initialSize": 1.02953e+06,
+		"inputAbbreviatedPath": "\/images\/items\/misc-ebooks-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/misc-ebooks-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/ICQ_24px.png": {
+	"\/images\/items\/misc-ebooks-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3205,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/ICQ_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/ICQ_24px.png",
+		"initialSize": 818085,
+		"inputAbbreviatedPath": "\/images\/items\/misc-ebooks-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/misc-ebooks-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/ImDB_24px.png": {
+	"\/images\/items\/misc-idtimeline-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2953,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/ImDB_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/ImDB_24px.png",
+		"initialSize": 7.82297e+06,
+		"inputAbbreviatedPath": "\/images\/items\/misc-idtimeline-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/misc-idtimeline-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Instagram_24px.png": {
+	"\/images\/items\/misc-idtimeline-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3058,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Instagram_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Instagram_24px.png",
+		"initialSize": 1.3662e+06,
+		"inputAbbreviatedPath": "\/images\/items\/misc-idtimeline-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/misc-idtimeline-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Last-FM_24px.png": {
+	"\/images\/items\/misc-idtimeline-03.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3033,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Last-FM_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Last-FM_24px.png",
+		"initialSize": 830896,
+		"inputAbbreviatedPath": "\/images\/items\/misc-idtimeline-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/misc-idtimeline-03.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Like-2_24px.png": {
+	"\/images\/items\/mob-ca-01-landing-welcome.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2956,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Like-2_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Like-2_24px.png",
+		"initialSize": 877065,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-01-landing-welcome.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-01-landing-welcome.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Like_24px.png": {
+	"\/images\/items\/mob-ca-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2950,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Like_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Like_24px.png",
+		"initialSize": 738901,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Linkedin-2_24px.png": {
+	"\/images\/items\/mob-ca-02-question.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2979,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Linkedin-2_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Linkedin-2_24px.png",
+		"initialSize": 80629,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-02-question.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-02-question.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Linkedin_24px.png": {
+	"\/images\/items\/mob-ca-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3007,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Linkedin_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Linkedin_24px.png",
+		"initialSize": 622996,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Livejournal_24px.png": {
+	"\/images\/items\/mob-ca-03-register.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3194,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Livejournal_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Livejournal_24px.png",
+		"initialSize": 102586,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-03-register.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-03-register.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Metacafe_24px.png": {
+	"\/images\/items\/mob-ca-04-confirmation.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3053,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Metacafe_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Metacafe_24px.png",
+		"initialSize": 101061,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-04-confirmation.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-04-confirmation.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Mixx_24px.png": {
+	"\/images\/items\/mob-ca-05-select-expert.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3098,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Mixx_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Mixx_24px.png",
+		"initialSize": 264003,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-05-select-expert.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-05-select-expert.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Myspace_24px.png": {
+	"\/images\/items\/mob-ca-06-expert-profile-ego.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2999,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Myspace_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Myspace_24px.png",
+		"initialSize": 163954,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-ego.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-ego.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Newsvine_24px.png": {
+	"\/images\/items\/mob-ca-06-expert-profile-kristy.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2944,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Newsvine_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Newsvine_24px.png",
+		"initialSize": 183065,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-kristy.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-kristy.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Orkut_24px.png": {
+	"\/images\/items\/mob-ca-06-expert-profile-pavan.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3045,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Orkut_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Orkut_24px.png",
+		"initialSize": 177915,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-pavan.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-pavan.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Picasa_24px.png": {
+	"\/images\/items\/mob-ca-06-expert-profile-sasha.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3038,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Picasa_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Picasa_24px.png",
+		"initialSize": 181044,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-sasha.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-06-expert-profile-sasha.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Pinterest_24px.png": {
+	"\/images\/items\/mob-ca-07-exp_confirm_call.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3194,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Pinterest_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Pinterest_24px.png",
+		"initialSize": 142307,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-07-exp_confirm_call.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-07-exp_confirm_call.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Plaxo_24px.png": {
+	"\/images\/items\/mob-ca-08-after-call.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3152,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Plaxo_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Plaxo_24px.png",
+		"initialSize": 138663,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ca-08-after-call.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ca-08-after-call.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Plurk_24px.png": {
+	"\/images\/items\/mob-citi-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3068,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Plurk_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Plurk_24px.png",
+		"initialSize": 903104,
+		"inputAbbreviatedPath": "\/images\/items\/mob-citi-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-citi-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Posterous_24px.png": {
+	"\/images\/items\/mob-citi-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3135,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Posterous_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Posterous_24px.png",
+		"initialSize": 878656,
+		"inputAbbreviatedPath": "\/images\/items\/mob-citi-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-citi-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/QIK_24px.png": {
+	"\/images\/items\/mob-citi-03.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3131,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/QIK_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/QIK_24px.png",
+		"initialSize": 715824,
+		"inputAbbreviatedPath": "\/images\/items\/mob-citi-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-citi-03.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Reddit_24px.png": {
+	"\/images\/items\/mob-citi-04.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3205,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Reddit_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Reddit_24px.png",
+		"initialSize": 861608,
+		"inputAbbreviatedPath": "\/images\/items\/mob-citi-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-citi-04.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Reverbnation_24px.png": {
+	"\/images\/items\/mob-citi-05.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3048,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Reverbnation_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Reverbnation_24px.png",
+		"initialSize": 777208,
+		"inputAbbreviatedPath": "\/images\/items\/mob-citi-05.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-citi-05.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/RSS_24px.png": {
+	"\/images\/items\/mob-citi-06.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3091,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/RSS_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/RSS_24px.png",
+		"initialSize": 608236,
+		"inputAbbreviatedPath": "\/images\/items\/mob-citi-06.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-citi-06.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Sharethis_24px.png": {
+	"\/images\/items\/mob-economist-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3027,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Sharethis_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Sharethis_24px.png",
+		"initialSize": 1.10326e+06,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Shoutwire_24px.png": {
+	"\/images\/items\/mob-economist-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2984,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Shoutwire_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Shoutwire_24px.png",
+		"initialSize": 996738,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Skype_24px.png": {
+	"\/images\/items\/mob-economist-03.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3196,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Skype_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Skype_24px.png",
+		"initialSize": 972779,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-03.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Soundcloud_24px.png": {
+	"\/images\/items\/mob-economist-04.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2957,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Soundcloud_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Soundcloud_24px.png",
+		"initialSize": 689572,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-04.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Spurl_24px.png": {
+	"\/images\/items\/mob-economist-05.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2835,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Spurl_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Spurl_24px.png",
+		"initialSize": 670431,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-05.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-05.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Stumbleupon_24px.png": {
+	"\/images\/items\/mob-economist-06.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2998,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Stumbleupon_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Stumbleupon_24px.png",
+		"initialSize": 746989,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-06.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-06.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Technorati_24px.png": {
+	"\/images\/items\/mob-economist-07.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3128,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Technorati_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Technorati_24px.png",
+		"initialSize": 748828,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-07.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-07.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Tumblr_24px.png": {
+	"\/images\/items\/mob-economist-08.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2939,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Tumblr_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Tumblr_24px.png",
+		"initialSize": 735252,
+		"inputAbbreviatedPath": "\/images\/items\/mob-economist-08.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-economist-08.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Twitter-2_24px.png": {
+	"\/images\/items\/mob-idmoments-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2936,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Twitter-2_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Twitter-2_24px.png",
+		"initialSize": 2.57847e+06,
+		"inputAbbreviatedPath": "\/images\/items\/mob-idmoments-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-idmoments-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Twitter_24px.png": {
+	"\/images\/items\/mob-idmoments-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3027,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Twitter_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Twitter_24px.png",
+		"initialSize": 2.43516e+06,
+		"inputAbbreviatedPath": "\/images\/items\/mob-idmoments-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-idmoments-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Unlike-2_24px.png": {
+	"\/images\/items\/mob-idmoments-03.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2950,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Unlike-2_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Unlike-2_24px.png",
+		"initialSize": 1.96402e+06,
+		"inputAbbreviatedPath": "\/images\/items\/mob-idmoments-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-idmoments-03.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Unlike_24px.png": {
+	"\/images\/items\/mob-ocbc-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2956,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Unlike_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Unlike_24px.png",
+		"initialSize": 630055,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ocbc-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ocbc-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Ustream_24px.png": {
+	"\/images\/items\/mob-ocbc-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2948,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Ustream_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Ustream_24px.png",
+		"initialSize": 652217,
+		"inputAbbreviatedPath": "\/images\/items\/mob-ocbc-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-ocbc-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Viddler_24px.png": {
+	"\/images\/items\/photo-kristew-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3011,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Viddler_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Viddler_24px.png",
+		"initialSize": 1.76761e+06,
+		"inputAbbreviatedPath": "\/images\/items\/photo-kristew-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/photo-kristew-01.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Vimeo_24px.png": {
+	"\/images\/items\/photo-kristew-02.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3068,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Vimeo_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Vimeo_24px.png",
+		"initialSize": 1.50399e+06,
+		"inputAbbreviatedPath": "\/images\/items\/photo-kristew-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/photo-kristew-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Wordpress_24px.png": {
+	"\/images\/items\/photo-kristew-03.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3086,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Wordpress_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Wordpress_24px.png",
+		"initialSize": 1.32148e+06,
+		"inputAbbreviatedPath": "\/images\/items\/photo-kristew-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/photo-kristew-03.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Xanga_24px.png": {
+	"\/images\/items\/photo-kristew-04.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3047,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Xanga_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Xanga_24px.png",
+		"initialSize": 1.62729e+06,
+		"inputAbbreviatedPath": "\/images\/items\/photo-kristew-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/photo-kristew-04.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Xing_24px.png": {
+	"\/images\/items\/th-idtimeline.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.0858e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-idtimeline.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-idtimeline.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-misc-ebooks.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 216882,
+		"inputAbbreviatedPath": "\/images\/items\/th-misc-ebooks.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-misc-ebooks.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-misc-idtimeline.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.0858e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-misc-idtimeline.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-misc-idtimeline.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-mob-ca.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 831406,
+		"inputAbbreviatedPath": "\/images\/items\/th-mob-ca.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-mob-ca.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-mob-citi.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 992854,
+		"inputAbbreviatedPath": "\/images\/items\/th-mob-citi.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-mob-citi.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-mob-economist.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.35799e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-mob-economist.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-mob-economist.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-mob-idmoments.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 680441,
+		"inputAbbreviatedPath": "\/images\/items\/th-mob-idmoments.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-mob-idmoments.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-mob-ocbc.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 530964,
+		"inputAbbreviatedPath": "\/images\/items\/th-mob-ocbc.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-mob-ocbc.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-photo-kristew.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.30789e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-photo-kristew.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-photo-kristew.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-video-5ways.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 968839,
+		"inputAbbreviatedPath": "\/images\/items\/th-video-5ways.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-video-5ways.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-video-betts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 766754,
+		"inputAbbreviatedPath": "\/images\/items\/th-video-betts.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-video-betts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-video-idrecdemo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 431944,
+		"inputAbbreviatedPath": "\/images\/items\/th-video-idrecdemo.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-video-idrecdemo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-video-poetrybook.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 717933,
+		"inputAbbreviatedPath": "\/images\/items\/th-video-poetrybook.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-video-poetrybook.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-video-syman.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.31823e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-video-syman.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-video-syman.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-web-aleph.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 678435,
+		"inputAbbreviatedPath": "\/images\/items\/th-web-aleph.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-web-aleph.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-web-identified2013.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.13794e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-web-identified2013.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-web-identified2013.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-web-idsignup.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.37166e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-web-idsignup.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-web-idsignup.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-web-prosearch.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 563761,
+		"inputAbbreviatedPath": "\/images\/items\/th-web-prosearch.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-web-prosearch.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-aleph-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.63512e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-aleph-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-aleph-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-aleph-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 973091,
+		"inputAbbreviatedPath": "\/images\/items\/web-aleph-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-aleph-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-aleph-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 551058,
+		"inputAbbreviatedPath": "\/images\/items\/web-aleph-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-aleph-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-identified2013-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.18271e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-identified2013-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-identified2013-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-identified2013-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 722089,
+		"inputAbbreviatedPath": "\/images\/items\/web-identified2013-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-identified2013-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-identified2013-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 773240,
+		"inputAbbreviatedPath": "\/images\/items\/web-identified2013-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-identified2013-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-identified2013-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.36603e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-identified2013-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-identified2013-04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-identified2013-05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 935608,
+		"inputAbbreviatedPath": "\/images\/items\/web-identified2013-05.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-identified2013-05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-idsignup-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.27371e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-idsignup-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-idsignup-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-idsignup-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.1568e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-idsignup-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-idsignup-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-idsignup-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.03783e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-idsignup-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-idsignup-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-idsignup-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 967306,
+		"inputAbbreviatedPath": "\/images\/items\/web-idsignup-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-idsignup-04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-idsignup-05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 973600,
+		"inputAbbreviatedPath": "\/images\/items\/web-idsignup-05.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-idsignup-05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-idsignup-06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 983781,
+		"inputAbbreviatedPath": "\/images\/items\/web-idsignup-06.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-idsignup-06.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-idsignup-07.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 836239,
+		"inputAbbreviatedPath": "\/images\/items\/web-idsignup-07.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-idsignup-07.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-prosearch-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 532630,
+		"inputAbbreviatedPath": "\/images\/items\/web-prosearch-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-prosearch-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-prosearch-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 522008,
+		"inputAbbreviatedPath": "\/images\/items\/web-prosearch-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-prosearch-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-prosearch-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 486264,
+		"inputAbbreviatedPath": "\/images\/items\/web-prosearch-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-prosearch-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-prosearch-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 445191,
+		"inputAbbreviatedPath": "\/images\/items\/web-prosearch-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-prosearch-04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-prosearch-05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 505579,
+		"inputAbbreviatedPath": "\/images\/items\/web-prosearch-05.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-prosearch-05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-prosearch-06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 502543,
+		"inputAbbreviatedPath": "\/images\/items\/web-prosearch-06.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-prosearch-06.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/line.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16398,
+		"inputAbbreviatedPath": "\/images\/line.png",
+		"outputAbbreviatedPath": "\/images\/line.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo-1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5754,
+		"inputAbbreviatedPath": "\/images\/logo-1.png",
+		"outputAbbreviatedPath": "\/images\/logo-1.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo-2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4911,
+		"inputAbbreviatedPath": "\/images\/logo-2.png",
+		"outputAbbreviatedPath": "\/images\/logo-2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9574,
+		"inputAbbreviatedPath": "\/images\/logo-3.png",
+		"outputAbbreviatedPath": "\/images\/logo-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo-4.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1350,
+		"inputAbbreviatedPath": "\/images\/logo-4.png",
+		"outputAbbreviatedPath": "\/images\/logo-4.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo-5.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3051,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Xing_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Xing_24px.png",
+		"inputAbbreviatedPath": "\/images\/logo-5.png",
+		"outputAbbreviatedPath": "\/images\/logo-5.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Yahoo-Buzz_24px.png": {
+	"\/images\/logo-6.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3156,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Yahoo-Buzz_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Yahoo-Buzz_24px.png",
+		"initialSize": 5080,
+		"inputAbbreviatedPath": "\/images\/logo-6.png",
+		"outputAbbreviatedPath": "\/images\/logo-6.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Yahoo_24px.png": {
+	"\/images\/logo-arch.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3073,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Yahoo_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Yahoo_24px.png",
+		"initialSize": 3885,
+		"inputAbbreviatedPath": "\/images\/logo-arch.png",
+		"outputAbbreviatedPath": "\/images\/logo-arch.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Yelp_24px.png": {
+	"\/images\/logo-one.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3229,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Yelp_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Yelp_24px.png",
+		"initialSize": 3211,
+		"inputAbbreviatedPath": "\/images\/logo-one.png",
+		"outputAbbreviatedPath": "\/images\/logo-one.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Youtube_24px.png": {
+	"\/images\/logo-photo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 2979,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Youtube_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Youtube_24px.png",
+		"initialSize": 5334,
+		"inputAbbreviatedPath": "\/images\/logo-photo.png",
+		"outputAbbreviatedPath": "\/images\/logo-photo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/img\/social-icons\/Zootool_24px.png": {
+	"\/images\/logo-sm.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3031,
-		"inputAbbreviatedPath": "\/assets\/img\/social-icons\/Zootool_24px.png",
-		"outputAbbreviatedPath": "\/assets\/img\/social-icons\/Zootool_24px.png",
+		"initialSize": 1047,
+		"inputAbbreviatedPath": "\/images\/logo-sm.png",
+		"outputAbbreviatedPath": "\/images\/logo-sm.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/js\/animation.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/animation.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/animation-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/contact.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/contact.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/contact-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/main.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/main.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/main-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/map.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/map.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/map-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/parallax.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/parallax.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/parallax-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/slideshow.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/slideshow.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/slideshow-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/text-rotator.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/text-rotator.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/text-rotator-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/js\/text-slider.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/js\/text-slider.js",
-		"outputAbbreviatedPath": "\/assets\/js\/min\/text-slider-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/animate-css\/animate.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/animate-css\/animate.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/animate-css\/animate.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/animate-css\/animate.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/backstretch\/jquery.backstretch.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/backstretch\/jquery.backstretch.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/backstretch\/min\/jquery.backstretch.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/bootstrap\/config.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/config.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/config-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/assets\/plugins\/bootstrap\/css\/bootstrap-theme.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/css\/bootstrap-theme.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/bootstrap\/css\/bootstrap-theme.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/css\/bootstrap-theme.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/bootstrap\/css\/bootstrap.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/css\/bootstrap.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/bootstrap\/css\/bootstrap.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/css\/bootstrap.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/bootstrap\/js\/bootstrap.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/js\/bootstrap.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/js\/min\/bootstrap-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/bootstrap\/js\/bootstrap.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/js\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/bootstrap\/js\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/countTo\/jquery.countTo.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/countTo\/jquery.countTo.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/countTo\/min\/jquery.countTo-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/debouncer\/debouncer.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/debouncer\/debouncer.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/debouncer\/min\/debouncer-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/detectmobilebrowser\/detectmobilebrowser.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/detectmobilebrowser\/detectmobilebrowser.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/detectmobilebrowser\/min\/detectmobilebrowser-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/easing\/jquery.easing.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/easing\/jquery.easing.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/easing\/min\/jquery.easing-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/easing\/jquery.easing.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/easing\/jquery.easing.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/easing\/min\/jquery.easing.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/flexSlider\/flexslider.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/flexslider.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/flexSlider\/flexslider.less": {
-		"allowInsecureImports": 0,
-		"createSourceMap": 0,
-		"disableJavascript": 0,
-		"fileType": 1,
-		"ieCompatibility": 1,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/flexslider.less",
-		"outputAbbreviatedPath": "\/assets\/plugins\/css\/flexslider.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"relativeURLS": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"strictImports": 0,
-		"strictMath": 0,
-		"strictUnits": 0
-		},
-	"\/assets\/plugins\/flexSlider\/images\/bg_play_pause.png": {
+	"\/images\/logo-w.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1546,
-		"inputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/images\/bg_play_pause.png",
-		"outputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/images\/bg_play_pause.png",
+		"initialSize": 1864,
+		"inputAbbreviatedPath": "\/images\/logo-w.png",
+		"outputAbbreviatedPath": "\/images\/logo-w.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/plugins\/flexSlider\/jquery.flexslider-min.js": {
-		"fileType": 64,
+	"\/images\/logo.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/jquery.flexslider-min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/min\/jquery.flexslider-min-min.js",
+		"initialSize": 1864,
+		"inputAbbreviatedPath": "\/images\/logo.png",
+		"outputAbbreviatedPath": "\/images\/logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/flexSlider\/jquery.flexslider.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/jquery.flexslider.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/flexSlider\/min\/jquery.flexslider-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/fontawesome\/css\/font-awesome.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/fontawesome\/css\/font-awesome.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/fontawesome\/css\/font-awesome.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/fontawesome\/css\/font-awesome.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/icons-mind\/demo-files\/demo.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/icons-mind\/demo-files\/demo.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/icons-mind\/demo-files\/demo.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/icons-mind\/demo-files\/demo.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/icons-mind\/demo-files\/min\/demo-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/icons-mind\/demo.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/icons-mind\/demo.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/icons-mind\/selection.json": {
-		"fileType": 524288,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/icons-mind\/selection.json",
-		"orderOutput": 0,
-		"outputAbbreviatedPath": "\/assets\/plugins\/icons-mind\/selection-min.json",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
-		},
-	"\/assets\/plugins\/icons-mind\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/icons-mind\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/inview\/jquery.inview.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/inview\/jquery.inview.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/inview\/min\/jquery.inview-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/inview\/jquery.inview.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/inview\/jquery.inview.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/inview\/min\/jquery.inview.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/jpreloader\/css\/bg.jpg": {
+	"\/images\/p1-calsic.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4529,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/css\/bg.jpg",
-		"outputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/css\/bg.jpg",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p1-calsic.jpg",
+		"outputAbbreviatedPath": "\/images\/p1-calsic.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/plugins\/jpreloader\/css\/jpreloader.css": {
-		"fileType": 16,
+	"\/images\/p1-prove.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/css\/jpreloader.css",
-		"outputAbbreviatedPath": "No Output Path",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p1-prove.jpg",
+		"outputAbbreviatedPath": "\/images\/p1-prove.jpg",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/jpreloader\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/jpreloader\/css\/vendor.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/css\/vendor.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/jpreloader\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/jpreloader\/js\/jpreloader.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/js\/jpreloader.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/js\/min\/jpreloader-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/jpreloader\/js\/jpreloader.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/js\/jpreloader.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/js\/min\/jpreloader.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/jpreloader\/js\/vendor.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/js\/vendor.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/jpreloader\/js\/min\/vendor-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/jquery.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/jquery.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/min\/jquery.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/magnificPopup\/jquery.magnific-popup.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/magnificPopup\/jquery.magnific-popup.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/magnificPopup\/min\/jquery.magnific-popup-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/magnificPopup\/jquery.magnific-popup.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/magnificPopup\/jquery.magnific-popup.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/magnificPopup\/min\/jquery.magnific-popup.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/magnificPopup\/magnific-popup.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/magnificPopup\/magnific-popup.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/matchHeight\/jquery.matchHeight-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/matchHeight\/jquery.matchHeight-min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/matchHeight\/min\/jquery.matchHeight-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/matchHeight\/jquery.matchHeight.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/matchHeight\/jquery.matchHeight.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/matchHeight\/min\/jquery.matchHeight-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/modernizr.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/modernizr.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/min\/modernizr.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/morphext\/morphext.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/morphext\/morphext.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/morphext\/morphext.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/morphext\/morphext.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/morphext\/min\/morphext-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/morphext\/morphext.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/morphext\/morphext.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/morphext\/min\/morphext.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/select2\/css\/select2.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/select2\/css\/select2.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/select2\/css\/select2.min.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/select2\/css\/select2.min.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/assets\/plugins\/select2\/js\/select2.full.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/select2.full.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/min\/select2.full-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/select2\/js\/select2.full.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/select2.full.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/min\/select2.full.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/select2\/js\/select2.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/select2.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/min\/select2-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/select2\/js\/select2.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/select2.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/select2\/js\/min\/select2.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/skrollr\/skrollr.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/skrollr\/skrollr.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/skrollr\/min\/skrollr-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/skrollr\/skrollr.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/skrollr\/skrollr.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/skrollr\/min\/skrollr.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/sticky\/jquery.sticky.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/sticky\/jquery.sticky.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/sticky\/min\/jquery.sticky-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/additional-methods.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/additional-methods.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/min\/additional-methods-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/additional-methods.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/additional-methods.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/min\/additional-methods.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/jquery.validate.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/jquery.validate.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/min\/jquery.validate-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/jquery.validate.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/jquery.validate.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/min\/jquery.validate.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_ar.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ar.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ar-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_ar.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ar.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ar.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_bg.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_bg.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_bg-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_bg.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_bg.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_bg.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_ca.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ca.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ca-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_ca.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ca.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ca.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_cs.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_cs.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_cs-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_cs.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_cs.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_cs.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_da.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_da.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_da-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_da.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_da.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_da.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_de.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_de.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_de-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_de.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_de.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_de.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_el.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_el.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_el-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_el.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_el.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_el.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_es.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_es.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_es-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_es.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_es.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_es.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_es_AR.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_es_AR.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_es_AR-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/plugins\/validation\/localization\/messages_es_AR.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_es_AR.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_es_AR.min-min.js",
-		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_et.js": {
-		"fileType": 64,
+	"\/images\/p1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_et.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_et-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p1.jpg",
+		"outputAbbreviatedPath": "\/images\/p1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_et.min.js": {
-		"fileType": 64,
+	"\/images\/p10.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_et.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_et.min-min.js",
+		"initialSize": 9612,
+		"inputAbbreviatedPath": "\/images\/p10.jpg",
+		"outputAbbreviatedPath": "\/images\/p10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_eu.js": {
-		"fileType": 64,
+	"\/images\/p10a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_eu.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_eu-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p10a.jpg",
+		"outputAbbreviatedPath": "\/images\/p10a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_eu.min.js": {
-		"fileType": 64,
+	"\/images\/p11.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_eu.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_eu.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p11.jpg",
+		"outputAbbreviatedPath": "\/images\/p11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_fa.js": {
-		"fileType": 64,
+	"\/images\/p11a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_fa.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_fa-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p11a.jpg",
+		"outputAbbreviatedPath": "\/images\/p11a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_fa.min.js": {
-		"fileType": 64,
+	"\/images\/p12a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_fa.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_fa.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p12a.jpg",
+		"outputAbbreviatedPath": "\/images\/p12a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_fi.js": {
-		"fileType": 64,
+	"\/images\/p1a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_fi.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_fi-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p1a.jpg",
+		"outputAbbreviatedPath": "\/images\/p1a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_fi.min.js": {
-		"fileType": 64,
+	"\/images\/p2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_fi.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_fi.min-min.js",
+		"initialSize": 9612,
+		"inputAbbreviatedPath": "\/images\/p2.jpg",
+		"outputAbbreviatedPath": "\/images\/p2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_fr.js": {
-		"fileType": 64,
+	"\/images\/p2a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_fr.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_fr-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p2a.jpg",
+		"outputAbbreviatedPath": "\/images\/p2a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_fr.min.js": {
-		"fileType": 64,
+	"\/images\/p2clasic.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_fr.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_fr.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p2clasic.jpg",
+		"outputAbbreviatedPath": "\/images\/p2clasic.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_gl.js": {
-		"fileType": 64,
+	"\/images\/p3a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_gl.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_gl-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p3a.jpg",
+		"outputAbbreviatedPath": "\/images\/p3a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_gl.min.js": {
-		"fileType": 64,
+	"\/images\/p3clasic.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_gl.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_gl.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p3clasic.jpg",
+		"outputAbbreviatedPath": "\/images\/p3clasic.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_he.js": {
-		"fileType": 64,
+	"\/images\/p4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_he.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_he-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p4.jpg",
+		"outputAbbreviatedPath": "\/images\/p4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_he.min.js": {
-		"fileType": 64,
+	"\/images\/p4a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_he.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_he.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p4a.jpg",
+		"outputAbbreviatedPath": "\/images\/p4a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_hr.js": {
-		"fileType": 64,
+	"\/images\/p5.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_hr.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_hr-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p5.jpg",
+		"outputAbbreviatedPath": "\/images\/p5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_hr.min.js": {
-		"fileType": 64,
+	"\/images\/p5a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_hr.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_hr.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p5a.jpg",
+		"outputAbbreviatedPath": "\/images\/p5a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_hu.js": {
-		"fileType": 64,
+	"\/images\/p7.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_hu.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_hu-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p7.jpg",
+		"outputAbbreviatedPath": "\/images\/p7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_hu.min.js": {
-		"fileType": 64,
+	"\/images\/p7_1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_hu.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_hu.min-min.js",
+		"initialSize": 9612,
+		"inputAbbreviatedPath": "\/images\/p7_1.jpg",
+		"outputAbbreviatedPath": "\/images\/p7_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_id.js": {
-		"fileType": 64,
+	"\/images\/p8.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_id.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_id-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p8.jpg",
+		"outputAbbreviatedPath": "\/images\/p8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_id.min.js": {
-		"fileType": 64,
+	"\/images\/p8_1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_id.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_id.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p8_1.jpg",
+		"outputAbbreviatedPath": "\/images\/p8_1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_is.js": {
-		"fileType": 64,
+	"\/images\/p8a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_is.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_is-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p8a.jpg",
+		"outputAbbreviatedPath": "\/images\/p8a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_is.min.js": {
-		"fileType": 64,
+	"\/images\/p9.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_is.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_is.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p9.jpg",
+		"outputAbbreviatedPath": "\/images\/p9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_it.js": {
-		"fileType": 64,
+	"\/images\/p9a.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_it.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_it-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/p9a.jpg",
+		"outputAbbreviatedPath": "\/images\/p9a.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_it.min.js": {
-		"fileType": 64,
+	"\/images\/paralax.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_it.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_it.min-min.js",
+		"initialSize": 25733,
+		"inputAbbreviatedPath": "\/images\/paralax.jpg",
+		"outputAbbreviatedPath": "\/images\/paralax.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ja.js": {
-		"fileType": 64,
+	"\/images\/photo-1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ja.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ja-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-1.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ja.min.js": {
-		"fileType": 64,
+	"\/images\/photo-10.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ja.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ja.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-10.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ka.js": {
-		"fileType": 64,
+	"\/images\/photo-11.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ka.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ka-min.js",
+		"initialSize": 10274,
+		"inputAbbreviatedPath": "\/images\/photo-11.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ka.min.js": {
-		"fileType": 64,
+	"\/images\/photo-12.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ka.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ka.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-12.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_kk.js": {
-		"fileType": 64,
+	"\/images\/photo-13.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_kk.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_kk-min.js",
+		"initialSize": 9140,
+		"inputAbbreviatedPath": "\/images\/photo-13.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_kk.min.js": {
-		"fileType": 64,
+	"\/images\/photo-14.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_kk.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_kk.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-14.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ko.js": {
-		"fileType": 64,
+	"\/images\/photo-15.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ko.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ko-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-15.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ko.min.js": {
-		"fileType": 64,
+	"\/images\/photo-16.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ko.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ko.min-min.js",
+		"initialSize": 9990,
+		"inputAbbreviatedPath": "\/images\/photo-16.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_lt.js": {
-		"fileType": 64,
+	"\/images\/photo-17.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_lt.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_lt-min.js",
+		"initialSize": 4509,
+		"inputAbbreviatedPath": "\/images\/photo-17.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_lt.min.js": {
-		"fileType": 64,
+	"\/images\/photo-18.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_lt.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_lt.min-min.js",
+		"initialSize": 9045,
+		"inputAbbreviatedPath": "\/images\/photo-18.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_lv.js": {
-		"fileType": 64,
+	"\/images\/photo-19.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_lv.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_lv-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-19.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-19.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_lv.min.js": {
-		"fileType": 64,
+	"\/images\/photo-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_lv.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_lv.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-2.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_my.js": {
-		"fileType": 64,
+	"\/images\/photo-20.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_my.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_my-min.js",
+		"initialSize": 9140,
+		"inputAbbreviatedPath": "\/images\/photo-20.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-20.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_my.min.js": {
-		"fileType": 64,
+	"\/images\/photo-21.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_my.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_my.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-21.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-21.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_nl.js": {
-		"fileType": 64,
+	"\/images\/photo-22.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_nl.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_nl-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/photo-22.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-22.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_nl.min.js": {
-		"fileType": 64,
+	"\/images\/photo-23.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_nl.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_nl.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-23.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-23.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_no.js": {
-		"fileType": 64,
+	"\/images\/photo-3.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_no.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_no-min.js",
+		"initialSize": 4509,
+		"inputAbbreviatedPath": "\/images\/photo-3.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_no.min.js": {
-		"fileType": 64,
+	"\/images\/photo-4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_no.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_no.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-4.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_pl.js": {
-		"fileType": 64,
+	"\/images\/photo-5.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_pl.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_pl-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-5.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_pl.min.js": {
-		"fileType": 64,
+	"\/images\/photo-6.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_pl.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_pl.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/photo-6.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_pt_BR.js": {
-		"fileType": 64,
+	"\/images\/photo-7.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_pt_BR.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_pt_BR-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/photo-7.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_pt_BR.min.js": {
-		"fileType": 64,
+	"\/images\/photo-8.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_pt_BR.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_pt_BR.min-min.js",
+		"initialSize": 5076,
+		"inputAbbreviatedPath": "\/images\/photo-8.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_pt_PT.js": {
-		"fileType": 64,
+	"\/images\/photo-9.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_pt_PT.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_pt_PT-min.js",
+		"initialSize": 9896,
+		"inputAbbreviatedPath": "\/images\/photo-9.jpg",
+		"outputAbbreviatedPath": "\/images\/photo-9.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_pt_PT.min.js": {
-		"fileType": 64,
+	"\/images\/photo-logo.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_pt_PT.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_pt_PT.min-min.js",
+		"initialSize": 2506,
+		"inputAbbreviatedPath": "\/images\/photo-logo.png",
+		"outputAbbreviatedPath": "\/images\/photo-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ro.js": {
-		"fileType": 64,
+	"\/images\/photos.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ro.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ro-min.js",
+		"initialSize": 109966,
+		"inputAbbreviatedPath": "\/images\/photos.jpg",
+		"outputAbbreviatedPath": "\/images\/photos.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ro.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-10.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ro.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ro.min-min.js",
+		"initialSize": 7182,
+		"inputAbbreviatedPath": "\/images\/port-item-10.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-10.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ru.js": {
-		"fileType": 64,
+	"\/images\/port-item-11.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ru.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ru-min.js",
+		"initialSize": 7182,
+		"inputAbbreviatedPath": "\/images\/port-item-11.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-11.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_ru.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-12.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_ru.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_ru.min-min.js",
+		"initialSize": 7182,
+		"inputAbbreviatedPath": "\/images\/port-item-12.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-12.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_si.js": {
-		"fileType": 64,
+	"\/images\/port-item-13.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_si.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_si-min.js",
+		"initialSize": 7182,
+		"inputAbbreviatedPath": "\/images\/port-item-13.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-13.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_si.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-14.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_si.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_si.min-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-14.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-14.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sk.js": {
-		"fileType": 64,
+	"\/images\/port-item-15.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sk.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sk-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-15.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-15.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sk.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-16.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sk.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sk.min-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-16.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-16.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sl.js": {
-		"fileType": 64,
+	"\/images\/port-item-17.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sl.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sl-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-17.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-17.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sl.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-18.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sl.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sl.min-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-18.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-18.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sr.js": {
-		"fileType": 64,
+	"\/images\/port-item-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sr.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sr-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-2.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sr.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-3.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sr.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sr.min-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-3.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sr_lat.js": {
-		"fileType": 64,
+	"\/images\/port-item-4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sr_lat.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sr_lat-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-4.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sr_lat.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-5.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sr_lat.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sr_lat.min-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-5.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-5.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sv.js": {
-		"fileType": 64,
+	"\/images\/port-item-6.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sv.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sv-min.js",
+		"initialSize": 8631,
+		"inputAbbreviatedPath": "\/images\/port-item-6.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-6.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_sv.min.js": {
-		"fileType": 64,
+	"\/images\/port-item-7.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_sv.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_sv.min-min.js",
+		"initialSize": 28467,
+		"inputAbbreviatedPath": "\/images\/port-item-7.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-7.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_th.js": {
-		"fileType": 64,
+	"\/images\/port-item-8.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_th.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_th-min.js",
+		"initialSize": 28467,
+		"inputAbbreviatedPath": "\/images\/port-item-8.jpg",
+		"outputAbbreviatedPath": "\/images\/port-item-8.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_th.min.js": {
-		"fileType": 64,
+	"\/images\/port-logo.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_th.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_th.min-min.js",
+		"initialSize": 642,
+		"inputAbbreviatedPath": "\/images\/port-logo.png",
+		"outputAbbreviatedPath": "\/images\/port-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_tj.js": {
-		"fileType": 64,
+	"\/images\/post-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_tj.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_tj-min.js",
+		"initialSize": 17748,
+		"inputAbbreviatedPath": "\/images\/post-2.jpg",
+		"outputAbbreviatedPath": "\/images\/post-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_tj.min.js": {
-		"fileType": 64,
+	"\/images\/post-4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_tj.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_tj.min-min.js",
+		"initialSize": 23187,
+		"inputAbbreviatedPath": "\/images\/post-4.jpg",
+		"outputAbbreviatedPath": "\/images\/post-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_tr.js": {
-		"fileType": 64,
+	"\/images\/product-1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_tr.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_tr-min.js",
+		"initialSize": 7467,
+		"inputAbbreviatedPath": "\/images\/product-1.jpg",
+		"outputAbbreviatedPath": "\/images\/product-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_tr.min.js": {
-		"fileType": 64,
+	"\/images\/product-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_tr.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_tr.min-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/product-2.jpg",
+		"outputAbbreviatedPath": "\/images\/product-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_uk.js": {
-		"fileType": 64,
+	"\/images\/product-3.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_uk.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_uk-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/product-3.jpg",
+		"outputAbbreviatedPath": "\/images\/product-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_uk.min.js": {
-		"fileType": 64,
+	"\/images\/ptn-3.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_uk.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_uk.min-min.js",
+		"initialSize": 107,
+		"inputAbbreviatedPath": "\/images\/ptn-3.png",
+		"outputAbbreviatedPath": "\/images\/ptn-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_vi.js": {
-		"fileType": 64,
+	"\/images\/slide-big-1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_vi.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_vi-min.js",
+		"initialSize": 16648,
+		"inputAbbreviatedPath": "\/images\/slide-big-1.jpg",
+		"outputAbbreviatedPath": "\/images\/slide-big-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_vi.min.js": {
-		"fileType": 64,
+	"\/images\/slide-big-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_vi.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_vi.min-min.js",
+		"initialSize": 16652,
+		"inputAbbreviatedPath": "\/images\/slide-big-2.jpg",
+		"outputAbbreviatedPath": "\/images\/slide-big-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_zh.js": {
-		"fileType": 64,
+	"\/images\/slide-big-3.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_zh.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_zh-min.js",
+		"initialSize": 16651,
+		"inputAbbreviatedPath": "\/images\/slide-big-3.jpg",
+		"outputAbbreviatedPath": "\/images\/slide-big-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_zh.min.js": {
-		"fileType": 64,
+	"\/images\/slide-big-4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_zh.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_zh.min-min.js",
+		"initialSize": 16648,
+		"inputAbbreviatedPath": "\/images\/slide-big-4.jpg",
+		"outputAbbreviatedPath": "\/images\/slide-big-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_zh_TW.js": {
-		"fileType": 64,
+	"\/images\/studio.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_zh_TW.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_zh_TW-min.js",
+		"initialSize": 17420,
+		"inputAbbreviatedPath": "\/images\/studio.jpg",
+		"outputAbbreviatedPath": "\/images\/studio.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/messages_zh_TW.min.js": {
-		"fileType": 64,
+	"\/images\/sub-handmade-c.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/messages_zh_TW.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/messages_zh_TW.min-min.js",
+		"initialSize": 432,
+		"inputAbbreviatedPath": "\/images\/sub-handmade-c.png",
+		"outputAbbreviatedPath": "\/images\/sub-handmade-c.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_de.js": {
-		"fileType": 64,
+	"\/images\/sub-handmade-w.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_de.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_de-min.js",
+		"initialSize": 472,
+		"inputAbbreviatedPath": "\/images\/sub-handmade-w.png",
+		"outputAbbreviatedPath": "\/images\/sub-handmade-w.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_de.min.js": {
-		"fileType": 64,
+	"\/images\/sub-handmade.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_de.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_de.min-min.js",
+		"initialSize": 360,
+		"inputAbbreviatedPath": "\/images\/sub-handmade.png",
+		"outputAbbreviatedPath": "\/images\/sub-handmade.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_es_CL.js": {
-		"fileType": 64,
+	"\/images\/team-1.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_es_CL.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_es_CL-min.js",
+		"initialSize": 6494,
+		"inputAbbreviatedPath": "\/images\/team-1.jpg",
+		"outputAbbreviatedPath": "\/images\/team-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_es_CL.min.js": {
-		"fileType": 64,
+	"\/images\/team-2.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_es_CL.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_es_CL.min-min.js",
+		"initialSize": 6494,
+		"inputAbbreviatedPath": "\/images\/team-2.jpg",
+		"outputAbbreviatedPath": "\/images\/team-2.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_fi.js": {
-		"fileType": 64,
+	"\/images\/team-3.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_fi.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_fi-min.js",
+		"initialSize": 6494,
+		"inputAbbreviatedPath": "\/images\/team-3.jpg",
+		"outputAbbreviatedPath": "\/images\/team-3.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_fi.min.js": {
-		"fileType": 64,
+	"\/images\/team-4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_fi.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_fi.min-min.js",
+		"initialSize": 6494,
+		"inputAbbreviatedPath": "\/images\/team-4.jpg",
+		"outputAbbreviatedPath": "\/images\/team-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_nl.js": {
-		"fileType": 64,
+	"\/images\/Untitled-4.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_nl.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_nl-min.js",
+		"initialSize": 7061,
+		"inputAbbreviatedPath": "\/images\/Untitled-4.jpg",
+		"outputAbbreviatedPath": "\/images\/Untitled-4.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_nl.min.js": {
-		"fileType": 64,
+	"\/images\/user.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_nl.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_nl.min-min.js",
+		"initialSize": 2158,
+		"inputAbbreviatedPath": "\/images\/user.png",
+		"outputAbbreviatedPath": "\/images\/user.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_pt.js": {
-		"fileType": 64,
+	"\/images\/webclip.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_pt.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_pt-min.js",
+		"initialSize": 2581,
+		"inputAbbreviatedPath": "\/images\/webclip.png",
+		"outputAbbreviatedPath": "\/images\/webclip.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"processed": 0
 		},
-	"\/assets\/plugins\/validation\/localization\/methods_pt.min.js": {
-		"fileType": 64,
+	"\/index.haml": {
+		"escapeHTMLCharacters": 0,
+		"fileType": 256,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/methods_pt.min.js",
-		"outputAbbreviatedPath": "\/assets\/plugins\/validation\/localization\/min\/methods_pt.min-min.js",
+		"inputAbbreviatedPath": "\/index.haml",
+		"noEscapeInAttributes": 0,
+		"outputAbbreviatedPath": "\/index.html",
+		"outputFormat": 2,
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
+		"outputStyle": 0,
+		"useCDATA": 0,
+		"useDoubleQuotes": 0,
+		"useUnixNewlines": 0
 		},
 	"\/index.html": {
 		"fileType": 8192,
@@ -3068,67 +2536,363 @@
 		},
 	"\/index2.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index2.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/source\/index.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
+	"\/item-misc-ebooks.html": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/source\/index.jade",
-		"outputAbbreviatedPath": "\/index2.html",
+		"inputAbbreviatedPath": "\/item-misc-ebooks.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
-		"outputStyle": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/source\/partials\/navigation.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/source\/partials\/navigation.jade",
-		"outputAbbreviatedPath": "\/source\/partials\/navigation.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/source\/partials\/portfolio.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/source\/partials\/portfolio.jade",
-		"outputAbbreviatedPath": "\/source\/partials\/portfolio.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/source\/partials\/profile.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 1,
+	"\/item-misc-idtimeline.html": {
+		"fileType": 8192,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/source\/partials\/profile.jade",
-		"outputAbbreviatedPath": "\/source\/partials\/profile.html",
+		"inputAbbreviatedPath": "\/item-misc-idtimeline.html",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputPathIsSetByUser": 0
 		},
-	"\/source\/partials\/services.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/source\/partials\/services.jade",
-		"outputAbbreviatedPath": "\/source\/partials\/services.html",
+	"\/item-mob-careeradvice.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-mob-careeradvice.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-mob-citi.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-mob-citi.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-mob-economist.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-mob-economist.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-mob-idmoments.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-mob-idmoments.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-mob-ocbc.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-mob-ocbc.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-photo-kristew.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-photo-kristew.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-video-5ways.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-video-5ways.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-video-betts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-video-betts.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-video-idrecdemo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-video-idrecdemo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-video-poetrybook.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-video-poetrybook.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-video-syman.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-video-syman.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-web-aleph.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-web-aleph.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-web-identified2013.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-web-identified2013.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-web-idsignup.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-web-idsignup.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-web-prosearch.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-web-prosearch.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/form.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/form.js",
+		"outputAbbreviatedPath": "\/js\/min\/form-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/idangerous.swiper.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/idangerous.swiper.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/idangerous.swiper.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/imagesloaded.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/imagesloaded.pkgd.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/imagesloaded.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/isotope.pkgd.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/isotope.pkgd.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/isotope.pkgd.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery-1.11.3.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery-1.11.3.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-1.11.3.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.animsition.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.animsition.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.animsition.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.fancybox.pack.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.fancybox.pack.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.fancybox.pack-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.fullPage.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.fullPage.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.fullPage.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/jquery.mb-comingsoon.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.mb-comingsoon.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery.mb-comingsoon.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/modernizr.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/modernizr.js",
+		"outputAbbreviatedPath": "\/js\/min\/modernizr-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/photoswipe-ui-default.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/photoswipe-ui-default.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/photoswipe-ui-default.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/photoswipe.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/photoswipe.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/photoswipe.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/plugins.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/plugins.js",
+		"outputAbbreviatedPath": "\/js\/min\/plugins-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/royal_preloader.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/royal_preloader.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/royal_preloader.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/scripts.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/scripts.js",
+		"outputAbbreviatedPath": "\/js\/min\/scripts-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/tweecoolmi.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/tweecoolmi.js",
+		"outputAbbreviatedPath": "\/js\/min\/tweecoolmi-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/typed.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/typed.js",
+		"outputAbbreviatedPath": "\/js\/min\/typed-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/wow.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/wow.min.js",
+		"outputAbbreviatedPath": "\/js\/min\/wow.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		}
 	},
 "hooks": [
@@ -3138,9 +2902,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "www",
-	"displayValueWasSetByUser": 0,
-	"iconImageName": "pencil_yellow"
+	"displayValue": "egofaylona.com",
+	"displayValueWasSetByUser": 1,
+	"iconImageName": "brackets_yellow"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
@@ -3233,8 +2997,16 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"no_nested_string_interpolation": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"no_plusplus": {
 			"active": 0,
+			"flagValue": -1
+			},
+		"no_private_function_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_stand_alone_at": {
@@ -3243,6 +3015,10 @@
 			},
 		"no_tabs": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_this": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_throwing_strings": {
@@ -3622,10 +3398,6 @@
 			}
 		},
 	"jsLintFlags2": {
-		"ass": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"bitwise": {
 			"active": 0,
 			"flagValue": -1
@@ -3634,15 +3406,7 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"closure": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"continue": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"debug": {
+		"couch": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3650,75 +3414,27 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"eqeq": {
+		"es6": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"evil": {
+		"eval": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"forin": {
+		"for": {
 			"active": 0,
 			"flagValue": -1
-			},
-		"indent": {
-			"active": 0,
-			"flagValue": 4
 			},
 		"maxlen": {
 			"active": 0,
 			"flagValue": 150
 			},
-		"newcap": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"node": {
 			"active": 0,
 			"flagValue": -1
 			},
-		"nomen": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"plusplus": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"properties": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"regexp": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"rhino": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sloppy": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"stupid": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"sub": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"todo": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"unparam": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"vars": {
+		"this": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -3819,7 +3535,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
