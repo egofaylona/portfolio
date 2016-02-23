@@ -1,0 +1,173 @@
+!!!
+%html{:lang => "en-US"}
+  %head
+    / SITE TITTLE
+    %meta{:charset => "utf-8"}/
+    %title Ego Faylona: Portfolio
+    %meta{:content => "width=device-width, initial-scale=1", :name => "viewport"}/
+    %meta{:content => "HTML5 Template", :name => "generator"}/
+    / THEME CSS STYLE
+    %link{:href => "css/normalize.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/base.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/style.css", :rel => "stylesheet", :type => "text/css"}/
+    / OTHER CSS STYLE
+    %link{:href => "css/photoswipe.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/default-skin/default-skin.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/animsition.min.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/royal_preloader.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/jquery.fullPage.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/jquery.fancybox.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/font-awesome.min.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/animate.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "css/mb-comingsoon.css", :rel => "stylesheet", :type => "text/css"}/
+    %link{:href => "fontastic.css", :rel => "stylesheet", :type => "text/css"}/
+    / FAVICON
+    %link{:href => "images/favicon.ico", :rel => "shortcut icon", :type => "image/x-icon"}/
+    / APPLE TOUCH ICON
+    %link{:href => "images/webclip.png", :rel => "apple-touch-icon"}/
+  %body.royal_preloader.animsition
+    / ROYAL PRELOADER
+    #royal_preloader
+    / TOP BORDER
+    .top-border
+      .w-row
+        .w-col.w-col-2.w-clearfix
+          %a.w-inline-block.brand-logo.animsition-link{:href => "index.html"}
+            %img{:src => "images/logo.png"}/
+        .w-col.w-col-8
+          %div
+            / NAVIGATION
+            %nav.navigation-type-3
+              %ul.w-list-unstyled
+                %li.li-menu-type-2
+                  %a.w-inline-block.link-nav-2.animsition-link{"data-ix" => "show-line-menu-type-2", :href => "index.html"}
+                    %div works
+                  .line-bottom-menu{"data-ix" => "line-menu-type"}
+                %li.li-menu-type-2
+                  %a.w-inline-block.link-nav-2.animsition-link{"data-ix" => "show-line-menu-type-2", :href => "about.html"}
+                    %div about
+                  .line-bottom-menu{"data-ix" => "line-menu-type"}
+                %li.li-menu-type-2
+                  %a.w-inline-block.link-nav-2.animsition-link{"data-ix" => "show-line-menu-type-2", :href => "contact.html"}
+                    %div contact
+                  .line-bottom-menu{"data-ix" => "line-menu-type"}
+            / END NAVIGATION
+        .w-col.w-col-2
+          .social-wrapper
+            %a.w-inline-block.social-icon.facebook{:href => "#"}
+              %i.fa.fa-facebook
+            %a.w-inline-block.social-icon.twitter{:href => "#"}
+              %i.fa.fa-twitter
+            %a.w-inline-block.social-icon.instagram{:href => "#"}
+              %i.fa.fa-instagram
+    / RIGHT BORDER
+    .right-border
+    / BOTTOM BORDER
+    .bottom-border
+      .w-hidden-medium.w-hidden-small.w-hidden-tiny.title-top-border
+        %div © 2016 Ego Faylona. Some rights reserved.
+    .overlay-menu{"data-ix" => "hide-overlay-menu-on-load"}
+      .w-container.port-contatiner
+        / NAVIGATION
+        %nav
+          %ul.w-list-unstyled.ul-nav
+            %li{"data-ix" => "close-dropdown-on-hover"}
+              %a.w-inline-block.nav-link.active{"data-ix" => "show-dropdown-on-hover", :href => "index.html"}
+                %h3.biger Works
+            %li{"data-ix" => "close-dropdown-on-hover"}
+              %a.w-inline-block.nav-link.animsition-link{"data-ix" => "show-dropdown-on-hover", :href => "about.html"}
+                %h3.biger about
+            %li{"data-ix" => "close-dropdown-on-hover"}
+              %a.w-inline-block.nav-link.animsition-link{"data-ix" => "show-dropdown-on-hover", :href => "contact.html"}
+                %h3.biger contact
+        / END NAVIGATION
+    / RESPONSIVE NAVIGATION
+    .w-hidden-main
+      .responsive-menu
+        .w-container
+          %a.w-inline-block.brand-logo.more-margin.animsition-link{:href => "index.html"}
+            %img{:alt => "logo", :src => "images/logo.png"}/
+          .hamburger{"data-ix" => "open-responsive-menu"}
+            .w-embed
+              %button.c-hamburger.c-hamburger--htx
+                %span toggle menu
+      %nav.responsive-nav
+        .w-container
+          %ul.w-list-unstyled.dd-big-res
+            %li
+              .w-clearfix.nav-res-link{"data-ix" => "open-dd-res"}
+                %a.res-txt{:href => "#"} Works
+            %li
+              .w-clearfix.nav-res-link
+                %a.res-txt.animsition-link{:href => "about.html"} About
+            %li
+              .w-clearfix.nav-res-link
+                %a.res-txt.animsition-link{:href => "contact.html"} Contact
+    / END RESPONSIVE NAVIGATION
+    %section.w-section.section-imp.more-padding
+      .w-container
+        .bottom-space
+          .title-wrapper.left
+            %h2.author-name About
+            %div
+              %img{:src => "images/sub-handmade.png"}/
+          %div
+            .w-row
+              .w-col.w-col-6
+                .both-padd
+                  .about-photo-container
+                    %img{:src => "images/about-me-photo.jpg"}/
+              .w-col.w-col-6
+                %div{:style => "padding-top: 20px"}
+                  %p
+                    Born to two Fine Arts majors in 1983, he has been exposed to art in
+                    nearly all its forms for as long as he can remember. Despite his
+                    parents’ incessant nagging to go down the starving artist route, he took
+                    up an undergrad Computer Science and later found a way to reconcile
+                    his creative skills with his passion for digital media.
+                  %p
+                    %strike
+                      %span{:style => "opacity:0.2"} Now based in Singapore,
+                    Ego works for
+                    %strike
+                      %span{:style => "opacity:0.2"} an internet startup
+                    %a.text-link{:href => "http://www.workday.com/", :target => "_blank"} Workday
+                    in San Francisco, CA, as part of it's Relevance Engineering UX Team after a recent acquisition of
+                    = succeed "," do
+                      %a.text-link{:href => "https://twitter.com/Identified", :target => "_blank"} Identified
+                  %p When he’s not fiddling around with his laptop, he can be found walking aimlessly around town taking photographs, practicing a riff or two on his guitar, or whipping up a mean batch of Japanese curry in the kitchen.
+                  %p He also has a peculiar affinity for anything involving peanut butter. And bacon. Yes.
+                  .w-clearfix.small-spc
+                    .w-clearfix.show-filter
+                      .filter-button
+                        .w-embed
+                          %i.fa.fa-download
+                      .w-clearfix.filter-effect
+                        .filter-txt-hide Download My Resume
+    / JQUERY SCRIPTS
+    %script{:src => "js/modernizr.js", :type => "text/javascript"}
+    %script{:src => "js/jquery-1.11.3.min.js", :type => "text/javascript"}
+    %script{:src => "https://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js", :type => "text/javascript"}
+    :javascript
+      WebFont.load({
+        google: {
+          families: ["Lekton:regular","Yellowtail:regular","Playfair Display:regular,italic,700"]
+        }
+      });
+    %script{:src => "js/isotope.pkgd.min.js", :type => "text/javascript"}
+    %script{:src => "js/imagesloaded.pkgd.min.js", :type => "text/javascript"}
+    %script{:src => "js/jquery.fullPage.min.js", :type => "text/javascript"}
+    %script{:src => "js/jquery.animsition.min.js", :type => "text/javascript"}
+    %script{:src => "js/royal_preloader.min.js", :type => "text/javascript"}
+    %script{:src => "js/jquery.fancybox.pack.js", :type => "text/javascript"}
+    %script{:src => "js/wow.min.js", :type => "text/javascript"}
+    %script{:src => "js/tweecoolmi.js", :type => "text/javascript"}
+    %script{:src => "js/jquery.mb-comingsoon.min.js", :type => "text/javascript"}
+    %script{:src => "js/photoswipe.min.js", :type => "text/javascript"}
+    %script{:src => "js/photoswipe-ui-default.min.js", :type => "text/javascript"}
+    %script{:src => "js/idangerous.swiper.min.js", :type => "text/javascript"}
+    %script{:src => "js/typed.js", :type => "text/javascript"}
+    %script{:src => "js/plugins.js", :type => "text/javascript"}
+    /[if lte IE 9] <script src="https://cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script>
+    / THEME CUSTOM
+    %script{:src => "js/scripts.js", :type => "text/javascript"}

@@ -11,8 +11,8 @@
 $(document).ready(function() { "use strict";
         $('#tweecool').tweecool({
         	//settings
-        	 username : 'collis',
-           limit : 3
+        	 username : 'hey_ego',
+           limit : 5
         });
 		return false;
 });
