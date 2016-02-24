@@ -2,24 +2,6 @@
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
 "creatorBuild": "19115",
 "files": {
-	"\/_about.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_about.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/_index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/about.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -745,6 +727,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/items\/art-idtimeline-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7.82297e+06,
+		"inputAbbreviatedPath": "\/images\/items\/art-idtimeline-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/art-idtimeline-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/art-idtimeline-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.3662e+06,
+		"inputAbbreviatedPath": "\/images\/items\/art-idtimeline-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/art-idtimeline-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/art-idtimeline-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 874489,
+		"inputAbbreviatedPath": "\/images\/items\/art-idtimeline-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/art-idtimeline-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/branding-ebooks-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.02953e+06,
+		"inputAbbreviatedPath": "\/images\/items\/branding-ebooks-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/branding-ebooks-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/branding-ebooks-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 818085,
+		"inputAbbreviatedPath": "\/images\/items\/branding-ebooks-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/branding-ebooks-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/items\/logo-sm.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -950,6 +987,28 @@
 		"initialSize": 138663,
 		"inputAbbreviatedPath": "\/images\/items\/mob-ca-08-after-call.png",
 		"outputAbbreviatedPath": "\/images\/items\/mob-ca-08-after-call.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-careeradvice-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 759288,
+		"inputAbbreviatedPath": "\/images\/items\/mob-careeradvice-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-careeradvice-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-careeradvice-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 641788,
+		"inputAbbreviatedPath": "\/images\/items\/mob-careeradvice-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-careeradvice-02.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1207,6 +1266,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/items\/th-art-idtimeline.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.08111e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-art-idtimeline.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-art-idtimeline.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-branding-ebooks.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 301009,
+		"inputAbbreviatedPath": "\/images\/items\/th-branding-ebooks.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-branding-ebooks.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/items\/th-idtimeline.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1247,6 +1328,17 @@
 		"initialSize": 831406,
 		"inputAbbreviatedPath": "\/images\/items\/th-mob-ca.png",
 		"outputAbbreviatedPath": "\/images\/items\/th-mob-ca.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/th-mob-careeradvice.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 278141,
+		"inputAbbreviatedPath": "\/images\/items\/th-mob-careeradvice.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-mob-careeradvice.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2758,20 +2850,29 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.html": {
+	"\/index2.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
+		"inputAbbreviatedPath": "\/index2.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/index2.html": {
+	"\/item-art-idtimeline.html": {
 		"fileType": 8192,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index2.html",
+		"inputAbbreviatedPath": "\/item-art-idtimeline.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-branding-ebooks.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-branding-ebooks.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2973,15 +3074,15 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
-	"\/jade\/_index.jade": {
+	"\/jade\/_item.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 1,
-		"inputAbbreviatedPath": "\/jade\/_index.jade",
-		"outputAbbreviatedPath": "\/_index.html",
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/_item.jade",
+		"outputAbbreviatedPath": "\/jade\/_item.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 1,
+		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
 	"\/jade\/_layout.jade": {
@@ -3060,6 +3161,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
+		},
+	"\/jade\/index.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/jade\/index.jade",
+		"outputAbbreviatedPath": "\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 1
 		},
 	"\/js\/form.js": {
 		"fileType": 64,

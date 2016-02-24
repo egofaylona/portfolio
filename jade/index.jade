@@ -1,0 +1,123 @@
+extends _layout.jade
+
+block content
+
+  section#filter.w-section.section-imp
+    .w-container
+    
+    //- FILTERS
+    .w-clearfix.filter-cont
+      .w-clearfix.filters.button-group
+        a.button(href='#', data-filter='*') All
+        a.button(href='#', data-filter='.web') Web
+        a.button(href='#', data-filter='.branding') Branding
+        a.button(href='#', data-filter='.mobile, .mob') Mobile
+        a.button(href='#', data-filter='.art') Digital Art
+        a.button(href='#', data-filter='.photo') Photography
+        a.button(href='#', data-filter='.motion, .video') Motion
+
+    #grid.w-clearfix.grid
+      .grid-sizer
+
+      //- ITEMS
+      +item({ itemId: 'identified2013',
+              itemType: 'web',
+              itemTitle: 'Identified 2013',
+              itemSubtitle: 'Web'
+              })
+              
+      +item({ itemId: 'idtimeline',
+              itemType: 'art',
+              itemTitle: 'Employee Timeline',
+              itemSubtitle: 'Digital Art'
+              })
+
+      +item({ itemId: 'syman',
+              itemType: 'video',
+              itemTitle: 'SYMAN',
+              itemSubtitle: 'Motion, Video'
+              })
+
+      +item({ itemId: 'careeradvice',
+              itemType: 'mob',
+              itemTitle: 'CareerAdvice',
+              itemSubtitle: 'Mobile'
+              })
+              
+      +item({ itemId: 'ebooks',
+              itemType: 'branding',
+              itemTitle: 'Identified Ebooks',
+              itemSubtitle: 'Branding'
+              })
+
+      +item({ itemId: 'kristew',
+              itemType: 'photo',
+              itemTitle: "Kristy & Stewart's 10th",
+              itemSubtitle: 'Photography'
+              })
+
+      +item({ itemId: 'idsignup',
+              itemType: 'web',
+              itemTitle: 'What Makes You Unique?',
+              itemSubtitle: 'Web'
+              })
+
+      +item({ itemId: 'prosearch',
+              itemType: 'web',
+              itemTitle: 'ID Prosearch',
+              itemSubtitle: 'Web'
+              })
+
+      +item({ itemId: 'idrecdemo',
+              itemType: 'video',
+              itemTitle: 'ID Recruit Demo',
+              itemSubtitle: 'Motion, Video'
+              })
+
+      +item({ itemId: '5ways',
+              itemType: 'video',
+              itemTitle: '5 Ways Social Media is Changing Passive Recruiting',
+              itemSubtitle: 'Video'
+              })
+
+      +item({ itemId: 'betts',
+              itemType: 'video',
+              itemTitle: 'Customer Success Story: Betts Recruiting',
+              itemSubtitle: 'Video'
+              })
+
+      +item({ itemId: 'idmoments',
+              itemType: 'mob',
+              itemTitle: 'Identified Moments',
+              itemSubtitle: 'Mobile'
+              })
+
+      +item({ itemId: 'poetrybook',
+              itemType: 'video',
+              itemTitle: "Susie's Poetry Book",
+              itemSubtitle: 'Video'
+              })
+
+      +item({ itemId: 'economist',
+              itemType: 'mob',
+              itemTitle: 'Economist iPad App',
+              itemSubtitle: 'Mobile'
+              })
+
+      +item({ itemId: 'ocbc',
+              itemType: 'mob',
+              itemTitle: 'OCBC Mobile Banking',
+              itemSubtitle: 'Mobile'
+              })
+
+      +item({ itemId: 'citi',
+              itemType: 'mob',
+              itemTitle: 'CitiPlanner',
+              itemSubtitle: 'Mobile'
+              })
+
+      +item({ itemId: 'aleph',
+              itemType: 'web',
+              itemTitle: 'Aleph Labs',
+              itemSubtitle: 'Web'
+              })

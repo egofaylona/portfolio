@@ -1,0 +1,11 @@
+mixin item(params)
+  - itemId = params['itemId']
+  - itemType = params['itemType']
+  - itemThumbnail = 'images/items/th-' + itemType + '-' + itemId + '.png'
+  .item(class=itemType)
+    .portfolio-overlay.wow.fadeInUp(data-ix='hover-portfolio-content')
+      img(src=itemThumbnail)
+      a.w-inline-block.portfolio-content.animsition-link(href='/item-#{itemType}-#{itemId}.html', data-ix='hide-portfolio-content-on-load')
+        .portfolio-cn-title
+          h4.portfolio-title(data-ix='scale-portfolio-title-on-load')= params['itemTitle']
+          .portfolio-sub-title(data-ix='scale-portfolio-title-on-load-2')= params['itemSubtitle']
