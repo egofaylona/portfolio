@@ -260,7 +260,7 @@ a {
 .section-imp {
   padding: 20px;
   background-color: #fafafa;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 .section-imp.no-padding {
@@ -2678,14 +2678,15 @@ a.text-link:hover {
 
 .about-photo-container {
   overflow: hidden;
-  width: 350px;
-  height: 350px;
+  width: 250px;
+  height: 250px;
   border-radius: 500px;
 }
+
 @media (max-width: 991px) {
   .about-photo-container {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border-radius: 500px;
     margin: 0 auto; 
   }

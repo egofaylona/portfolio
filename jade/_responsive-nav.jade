@@ -1,0 +1,23 @@
+//- RESPONSIVE NAVIGATION
+.w-hidden-main
+  .responsive-menu
+    .w-container
+      a.w-inline-block.brand-logo.more-margin.animsition-link(href='index.html')
+        img(width='50%', src='images/logo.png', alt='logo')
+      .hamburger(data-ix='open-responsive-menu')
+        .w-embed
+          button.c-hamburger.c-hamburger--htx
+            span toggle menu
+  nav.responsive-nav
+    .w-container
+      ul.w-list-unstyled.dd-big-res
+        li
+          .w-clearfix.nav-res-link(data-ix='open-dd-res')
+            a.res-txt(href='index.html') Works
+        li
+          .w-clearfix.nav-res-link
+            a.res-txt.animsition-link(href='about.html') About
+        li
+          .w-clearfix.nav-res-link
+            a.res-txt.animsition-link(href='contact.html') Contact
+

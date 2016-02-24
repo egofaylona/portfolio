@@ -1,0 +1,24 @@
+doctype html
+
+html(lang='en-US')
+
+  head
+    include _head.jade
+    include _styles.jade
+    include _favicon.jade
+
+  body.royal_preloader.animsition
+    
+    //- ROYAL PRELOADER
+    #royal_preloader
+
+    include _top-border.jade
+    include _left-border.jade
+    include _right-border.jade
+    include _bottom-border.jade
+
+    include _responsive-nav.jade
+
+    block content
+
+    include _scripts.jade

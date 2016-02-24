@@ -1,0 +1,48 @@
+extends _layout.jade
+
+block content
+
+  section.w-section.section-imp.more-padding
+    .w-container
+    
+      .bottom-space
+        .title-wrapper.left
+          h2.author-name About
+          div
+            img(src='images/sub-handmade.png')
+        div
+          .w-row
+            .w-col.w-col-6(style='width:35%')
+              .both-padd
+                .about-photo-container
+                  img(src='images/about-me-photo.jpg')
+            .w-col.w-col-6(style='width:65%')
+              div(style='padding-top: 20px')
+                p
+                  | Born to two Fine Arts majors in 1983, he has been exposed to art in
+                  | nearly all its forms for as long as he can remember. Despite his
+                  | parents&rsquo; incessant nagging to go down the starving artist route, he took
+                  | up an undergrad Computer Science and later found a way to reconcile
+                  | his creative skills with his passion for digital media.
+                p
+                  strike
+                    span(style='opacity:0.2') Now based in Singapore,
+                  |  Ego works for 
+                  strike
+                    span(style='opacity:0.2') an internet startup
+                  a.text-link(href='http://www.workday.com/', target='_blank') Workday 
+                  |  in San Francisco, CA, as part of it&apos;s Relevance Engineering UX Team after a recent acquisition of 
+                  a.text-link(href='https://twitter.com/Identified', target='_blank') Identified
+                  | , where he did an Art Director stint.
+                p
+                  | When he&rsquo;s not fiddling around with his laptop, he can be found walking aimlessly around town taking photographs, practicing a riff or two on his guitar, or whipping up a mean batch of Japanese curry in the kitchen.
+                p
+                  | He also has a peculiar affinity for anything involving peanut butter. And bacon. Yes.
+                .w-clearfix.small-spc
+                  .w-clearfix.show-filter
+                    .filter-button
+                      .w-embed
+                        i.fa.fa-download
+                    .w-clearfix.filter-effect
+                      a(href='/images/efaylona-resume2016.pdf', target='_blank')
+                        .filter-txt-hide Download My Resume

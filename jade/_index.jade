@@ -1,0 +1,27 @@
+extends _layout.jade
+
+block content
+
+  section#filter.w-section.section-imp
+    .w-container
+    //- FILTERS
+    .w-clearfix.filter-cont
+      .w-clearfix.filters.button-group
+        a.button(href='#', data-filter='*') All
+        a.button(href='#', data-filter='.web') Web
+        a.button(href='#', data-filter='.mobile') Mobile
+        a.button(href='#', data-filter='.art') Digital Art
+        a.button(href='#', data-filter='.photo') Photography
+        a.button(href='#', data-filter='.motion') Motion
+
+    #grid.w-clearfix.grid
+      .grid-sizer
+
+      //- ITEMS
+      .item.web
+        .portfolio-overlay.wow.fadeInUp(data-ix='hover-portfolio-content')
+          img(src='images/items/th-web-identified2013.png')
+          a.w-inline-block.portfolio-content.animsition-link(href='/item-web-identified2013.html', data-ix='hide-portfolio-content-on-load')
+            .portfolio-cn-title
+              h4.portfolio-title(data-ix='scale-portfolio-title-on-load') Identified 2013
+              .portfolio-sub-title(data-ix='scale-portfolio-title-on-load-2') Web
