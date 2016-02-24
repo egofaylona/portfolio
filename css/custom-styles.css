@@ -1,0 +1,74 @@
+/* Ego's Custom Overrides */
+
+a.text-link {
+  margin-bottom: 10px;
+  font-family: Lekton, sans-serif;
+  font-weight: 400;
+  color: #333;
+  font-size: 15px;
+  line-height: 26px;
+  text-decoration: none;
+}
+
+a.text-link:hover {
+  text-decoration: underline;
+  color: #F3958F;
+}
+
+.about-photo-container {
+  overflow: hidden;
+  width: 250px;
+  height: 250px;
+  border-radius: 500px;
+}
+
+.button {
+    margin-bottom: 3px;
+}
+
+@media (max-width: 991px) {
+  .about-photo-container {
+    width: 200px;
+    height: 200px;
+    border-radius: 500px;
+    margin: 0 auto;
+  }
+
+  .responsive-menu {
+    padding: 20px;
+  }
+
+  .responsive-nav {
+    padding: 0 20px;
+  }
+
+  .filter-cont {
+    margin: 0 0 20px 0;
+  }
+
+  .section-imp {
+    padding: 0 20px;
+    margin-top: 20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .about-photo-container {
+    overflow: hidden;
+    width: 200px;
+    height: 200px;
+    border-radius: 500px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 479px) {
+  .section-imp {
+    padding: 0 20px;
+    margin-top: 20px;
+  }
+
+  .filter-cont {
+    margin:0 0 20px 0;
+  }
+}
