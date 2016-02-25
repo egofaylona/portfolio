@@ -77,6 +77,10 @@ a.text-link:hover {
 
 /* Responsive Stuff */
 @media (max-width: 991px) {
+
+  body {
+    padding-top: 0;
+  }
   .about-photo-container {
     width: 200px;
     height: 200px;
