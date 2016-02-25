@@ -1,0 +1,65 @@
+extends layout.jade
+
+block styles
+  style(type='text/css').
+    section.w-section.section-imp {
+      padding: 0;
+    }
+    
+    li.item-detail {
+      margin-bottom: 10px;
+      font-family: Lekton, sans-serif;
+      font-weight: 400;
+      color: #818181;
+      font-size: 15px;
+      line-height: 26px;
+    }
+
+block content
+
+  section.w-section.section-imp
+    .w-container
+        
+      //- IMAGES
+      .port-item-spc
+        .w-slider.slider-page(data-animation='slide', data-duration='500', data-infinite='1', data-nav-spacing='5')
+          .w-slider-mask
+            block images
+          .w-slider-arrow-left
+            .w-icon-slider-left.arrow-slider.left
+          .w-slider-arrow-right
+            .w-icon-slider-right.arrow-slider.right
+          .w-slider-nav.w-slider-nav-invert.w-round.slide-dots
+      
+      //- ITEM DESCRIPTION
+      //- .port-item-spc.item-description
+      //-   h1.port-item-title CareerAdvice
+      //-   .w-row
+      //-     .w-col.w-col-8
+      //-       h4.post-title Project description
+      //-       p An app that aims to help people who seek career advice get trustworthy answers from industry experts. &quot;Experts&quot; can choose to answer specific questions and get compensated wholly or elect to donate a percentage of it to charity.
+      //-       p A working prototype was developed in an internal hackathon.
+                  
+      //- ITEM DETAIL
+      .port-item-spc.item-description
+        h1.port-item-title
+          block title
+        .w-row
+          .w-col.w-col-8
+            h4.post-title Project description
+            block description
+          .w-col.w-col-4
+            h4.post-title Project details
+            ul.w-list-unstyled
+              li.item-detail
+                | Client: 
+                block client
+              li.item-detail
+                | Role: 
+                block role
+              li.item-detail
+                | Tools used: 
+                block toolsUsed
+              li.item-detail
+                | Created: 
+                block dateCreated

@@ -6,7 +6,10 @@ html(lang='en-US')
 
   head
     include _head.jade
+    
     include _styles.jade
+    block styles
+    
     include _favicon.jade
 
   body.royal_preloader.animsition
@@ -15,8 +18,8 @@ html(lang='en-US')
     #royal_preloader
 
     include _top-border.jade
-    include _left-border.jade
-    include _right-border.jade
+    //- include _left-border.jade
+    //- include _right-border.jade
     include _bottom-border.jade
 
     include _responsive-nav.jade

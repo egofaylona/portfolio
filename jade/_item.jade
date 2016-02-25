@@ -1,5 +1,10 @@
 //- Portfolio Item
-//- --------------
+//- ==============
+//- 
+//- Mixins for all Portfolio Item components
+
+//- INDEX: Item
+//- -----------
 
 mixin item(params)
   - itemId = params['itemId']
@@ -12,3 +17,29 @@ mixin item(params)
         .portfolio-cn-title
           h4.portfolio-title(data-ix='scale-portfolio-title-on-load')= params['itemTitle']
           .portfolio-sub-title(data-ix='scale-portfolio-title-on-load-2')= params['itemSubtitle']
+
+
+//- DETAIL PAGE: Item Image
+//- -----------------------
+
+
+//- DETAIL PAGE: Item Description
+//- -----------------------------
+mixin item-detail(params)
+  .port-item-spc.item-description
+    h1.port-item-title #{params['itemTitle']}
+    .w-row
+      .w-col.w-col-8
+        h4.post-title Project description
+        !=  params['itemDetailDescription']
+      .w-col.w-col-4
+        h4.post-title Project details
+        ul.w-list-unstyled
+          li
+            p Client: #{params['itemDetailClient']}
+          li
+            p Role: #{params['itemDetailRole']}
+          li
+            p Tools used: #{params['itemDetailToolsUsed']}
+          li
+            p Created: #{params['itemDetailDateCreated']}
