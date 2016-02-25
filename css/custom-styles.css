@@ -152,14 +152,18 @@ a.text-link:hover {
 @media (max-width: 767px) {
   .about-photo-container {
     overflow: hidden;
-    width: 200px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
     border-radius: 500px;
     margin: 0 auto;
   }
 }
 
 @media (max-width: 479px) {
+  .about-photo-container {
+    display: none;
+  }
+
   .section-imp {
     padding: 0 20px;
     margin-top: 0px;
