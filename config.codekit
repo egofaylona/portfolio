@@ -1768,6 +1768,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/logo_150-sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6674,
+		"inputAbbreviatedPath": "\/images\/logo_150-sprite.png",
+		"outputAbbreviatedPath": "\/images\/logo_150-sprite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logo_200-bw.png": {
 		"fileType": 32768,
 		"ignore": 0,

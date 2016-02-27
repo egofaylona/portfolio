@@ -33,8 +33,9 @@ body {
 }
 
 .brand-logo {
-  background-image: url('../images/logo_150-bw.png');
-  background-size: contain;
+  /*background-image: url('../images/logo_150-bw.png');*/
+  background-image: url('../images/logo_150-sprite.png');
+  background-size: 150px;
   display: inline-block;
   float: left;
   height: 150px;
@@ -42,11 +43,10 @@ body {
   margin-top: -5px;
   background-repeat: no-repeat;
   background-position: left top;
-  transition:
 }
 
 .brand-logo:hover {
-  background-image: url('../images/logo_150-c.png');
+  background-position: bottom;
 }
 
 .w-slider-mask {
@@ -184,6 +184,7 @@ a.text-link:hover {
   }
 
   .brand-logo {
+    background-size: 80px;
     width: 80px;
     height: 80px;
     margin: 0;
