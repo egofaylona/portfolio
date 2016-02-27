@@ -33,7 +33,7 @@ body {
 }
 
 .brand-logo {
-  background-image: url('../images/logo_400-bw.svg');
+  background-image: url('../images/logo_150-bw.png');
   background-size: contain;
   display: inline-block;
   float: left;
@@ -46,7 +46,7 @@ body {
 }
 
 .brand-logo:hover {
-  background-image: url('../images/logo_400-c.svg');
+  background-image: url('../images/logo_150-c.png');
 }
 
 .w-slider-mask {

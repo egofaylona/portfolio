@@ -1750,7 +1750,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3567,
+		"initialSize": 3341,
 		"inputAbbreviatedPath": "\/images\/logo_150-bw.png",
 		"outputAbbreviatedPath": "\/images\/logo_150-bw.png",
 		"outputPathIsOutsideProject": 0,
@@ -1761,7 +1761,7 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 3703,
+		"initialSize": 3957,
 		"inputAbbreviatedPath": "\/images\/logo_150-c.png",
 		"outputAbbreviatedPath": "\/images\/logo_150-c.png",
 		"outputPathIsOutsideProject": 0,
@@ -2922,6 +2922,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/item-video-syman.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-web-aleph.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-web-aleph.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
