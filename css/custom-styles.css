@@ -51,7 +51,7 @@ body {
 
 .w-slider-mask {
   /* consider making max-height inline per page */
-  max-height: 600px;
+  max-height: 700px;
   margin: 0 auto;
 
 }
@@ -68,7 +68,7 @@ body {
   display: block;
   width: 100%;
   margin: 0 auto;
-  max-height: 600px;
+  max-height: 700px;
   object-fit: contain;
 }
 
