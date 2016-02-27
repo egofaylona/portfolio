@@ -5,7 +5,16 @@ doctype html
 html(lang='en-US')
 
   head
-    include _head.jade
+  
+    block config
+    - siteName = 'Ego Faylona | Portfolio: ' + pageTitle
+    
+    //- SITE TITTLE
+    meta(charset='utf-8')
+    title= siteName
+    meta(name='viewport', content='width=device-width, initial-scale=1')
+    meta(name='generator', content='HTML5 Template')
+
     block scripts
     include _styles.jade
     block styles
