@@ -1,0 +1,43 @@
+extends layout.jade
+
+block styles
+  style(type='text/css').
+    section.w-section.section-imp {
+      padding: 0;
+    }
+
+block content
+
+  section.w-section.section-imp
+    .w-container
+        
+      //- IMAGES
+      .port-item-spc
+        .w-slider.slider-page(data-animation='slide', data-duration='500', data-infinite='1', data-nav-spacing='5')
+          .w-slider-mask
+            block images
+      
+      .port-item-spc.item-description
+        //- ITEM DESCRIPTION
+        h1.port-item-title
+          block title
+        .w-row
+          .w-col.w-col-8
+            h4.post-title Project description
+            block description
+          //- ITEM DETAIL
+          .w-col.w-col-4
+            h4.post-title Project details
+            ul.w-list-unstyled
+              li.item-detail
+                | Client: 
+                block client
+              li.item-detail
+                | Role: 
+                block role
+              li.item-detail
+                | Tools used: 
+                block toolsUsed
+              li.item-detail
+                | Created: 
+                block dateCreated
