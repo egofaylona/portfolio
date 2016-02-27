@@ -2957,18 +2957,9 @@
 		},
 	"\/item-web-idsignup.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/item-web-idsignup.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/item-web-prosearch.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/item-web-prosearch.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3299,6 +3290,28 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/jade\/item-web-identified2013.jade",
 		"outputAbbreviatedPath": "\/item-web-identified2013.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 1
+		},
+	"\/jade\/item-web-idsignup.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/item-web-idsignup.jade",
+		"outputAbbreviatedPath": "\/item-web-idsignup.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 1
+		},
+	"\/jade\/item-web-prosearch.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/item-web-prosearch.jade",
+		"outputAbbreviatedPath": "\/item-web-prosearch.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 1
@@ -3654,7 +3667,7 @@
 	"bowerAbbreviatedPath": "",
 	"displayValue": "egofaylona.com",
 	"displayValueWasSetByUser": 1,
-	"iconImageName": "brackets_yellow"
+	"iconImageName": "meme-wonka"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,
