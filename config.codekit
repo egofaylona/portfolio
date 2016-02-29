@@ -888,6 +888,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/items\/mob-basf-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 881485,
+		"inputAbbreviatedPath": "\/images\/items\/mob-basf-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-basf-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-basf-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 697528,
+		"inputAbbreviatedPath": "\/images\/items\/mob-basf-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-basf-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-basf-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 611639,
+		"inputAbbreviatedPath": "\/images\/items\/mob-basf-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-basf-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-basf-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 499006,
+		"inputAbbreviatedPath": "\/images\/items\/mob-basf-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-basf-04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-basf-05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 666443,
+		"inputAbbreviatedPath": "\/images\/items\/mob-basf-05.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-basf-05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/items\/mob-ca-01-landing-welcome.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1405,6 +1460,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/items\/th-mob-basf.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 624217,
+		"inputAbbreviatedPath": "\/images\/items\/th-mob-basf.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-mob-basf.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/items\/th-mob-careeradvice.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1537,6 +1603,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/items\/th-web-candypaws.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.34729e+06,
+		"inputAbbreviatedPath": "\/images\/items\/th-web-candypaws.png",
+		"outputAbbreviatedPath": "\/images\/items\/th-web-candypaws.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/items\/th-web-identified2013.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1643,6 +1720,50 @@
 		"initialSize": 551058,
 		"inputAbbreviatedPath": "\/images\/items\/web-aleph-03.png",
 		"outputAbbreviatedPath": "\/images\/items\/web-aleph-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-candypaws-01.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.36062e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-candypaws-01.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-candypaws-01.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-candypaws-02.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.3312e+06,
+		"inputAbbreviatedPath": "\/images\/items\/web-candypaws-02.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-candypaws-02.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-candypaws-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 203806,
+		"inputAbbreviatedPath": "\/images\/items\/web-candypaws-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-candypaws-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/web-candypaws-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 791028,
+		"inputAbbreviatedPath": "\/images\/items\/web-candypaws-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/web-candypaws-04.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3056,6 +3177,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/item-mob-basf.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-mob-basf.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/item-mob-careeradvice.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -3160,6 +3290,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/item-web-aleph.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/item-web-candypaws.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/item-web-candypaws.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -3398,6 +3537,17 @@
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
 		},
+	"\/jade\/item-mob-basf.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/item-mob-basf.jade",
+		"outputAbbreviatedPath": "\/item-mob-basf.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
+		},
 	"\/jade\/item-mob-careeradvice.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -3529,6 +3679,17 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 1
+		},
+	"\/jade\/item-web-candypaws.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/jade\/item-web-candypaws.jade",
+		"outputAbbreviatedPath": "\/item-web-candypaws.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
 		},
 	"\/jade\/item-web-identified2013.jade": {
 		"compileDebug": 1,
