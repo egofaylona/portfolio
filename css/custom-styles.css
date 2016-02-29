@@ -144,6 +144,12 @@ a.text-link:hover {
   padding: 20px 150px;
 }
 
+.about-default {
+  width: 80%;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
 /* Contact page */
 .contact-container {
   margin-top: 70px;
