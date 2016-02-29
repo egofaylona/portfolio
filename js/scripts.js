@@ -11,8 +11,8 @@
 $(document).ready(function() { "use strict";
         $('#tweecool').tweecool({
         	//settings
-        	 username : 'collis',
-           limit : 3
+        	 username : 'collis', 
+           limit : 3	
         });
 		return false;
 });
@@ -22,13 +22,13 @@ $(document).ready(function() { "use strict";
 ***************************************/
 
     $(function () { "use strict";
-
+  
   var outerDiv = $('.video-wrapper')
   var videoTag = outerDiv.find('video')
-
+  
   $(window).resize(resize)
   resize()
-
+  
   function resize() {
     var width = outerDiv.width()
     var height = outerDiv.height()
@@ -43,7 +43,7 @@ $(document).ready(function() { "use strict";
     var y = 0
     if (w > width) x = -(w - width) * 0.5
     if (h > height) y = -(h - height) * 0.5
-
+     
     videoTag.css({
       width: w,
       height: h,
@@ -79,7 +79,7 @@ $(document).ready(function() { "use strict";
         });
 		return false;
     });
-
+	
 /**************************************
  * Hamburger Icon
 ***************************************/
@@ -158,7 +158,7 @@ $(document).ready(function() { "use strict";
         });
 		return false;
     });
-
+	
 /**************************************
  * isotope jQuery
 ***************************************/
@@ -169,11 +169,11 @@ $(document).ready( function() {
   var $grid = $('.grid').isotope({
     itemSelector: '.item'
   });
-
+  
   // layout Isotope after each image loads
   $grid.imagesLoaded().progress( function() {
     $grid.isotope('layout');
-  });
+  }); 
 
   // store filter for each group
   var filters = {};
@@ -199,7 +199,7 @@ $(document).ready( function() {
       $( this ).addClass('.is-checked');
     });
   });
-
+  
 });
 
 // flatten object by concatting values
@@ -210,7 +210,7 @@ function concatValues( obj ) {
   }
   return value;
 }
-
+  
 /**************************************
  * Royal Preloader jQuery
 ***************************************/
@@ -220,7 +220,7 @@ Royal_Preloader.config({
                 timeout:    10,
                 background: '#111'
 });
-
+	
 /**************************************
  * fancybox jQuery
 ***************************************/
@@ -229,7 +229,7 @@ Royal_Preloader.config({
 		$(".fancybox").fancybox();
 		return false;
 	});
-
+	
 /**************************************
  * Wow jQuery
 ***************************************/
@@ -253,7 +253,7 @@ jQuery(document).ready(function($){
 	//hide or show the "back to top" link
 	$(window).scroll(function(){
 		( $(this).scrollTop() > offset ) ? $back_to_top.addClass('cd-is-visible') : $back_to_top.removeClass('cd-is-visible cd-fade-out');
-		if( $(this).scrollTop() > offset_opacity ) {
+		if( $(this).scrollTop() > offset_opacity ) { 
 			$back_to_top.addClass('cd-fade-out');
 		}
 	});
@@ -291,7 +291,7 @@ $(function () {
 ***************************************/
 
    var initPhotoSwipeFromDOM = function(gallerySelector) {
-    // parse slide data (url, title, size ...) from DOM elements
+    // parse slide data (url, title, size ...) from DOM elements 
     // (children of gallerySelector)
     var parseThumbnailElements = function(el) {
         var thumbElements = el.childNodes,
@@ -305,7 +305,7 @@ $(function () {
         for(var i = 0; i < numNodes; i++) {
             figureEl = thumbElements[i]; // <figure> element
 
-            // include only element nodes
+            // include only element nodes 
             if(figureEl.nodeType !== 1) {
                 continue;
             }
@@ -319,12 +319,12 @@ $(function () {
             };
             if(figureEl.children.length > 1) {
                 // <figcaption> content
-                item.title = figureEl.children[1].innerHTML;
+                item.title = figureEl.children[1].innerHTML; 
             }
             if(linkEl.children.length > 0) {
                 // <img> thumbnail element, retrieving thumbnail url
                 item.msrc = linkEl.children[0].getAttribute('src');
-            }
+            } 
             item.el = figureEl; // save link to element for getThumbBoundsFn
             items.push(item);
         }
@@ -350,8 +350,8 @@ $(function () {
             nodeIndex = 0,
             index;
         for (var i = 0; i < numChildNodes; i++) {
-            if(childNodes[i].nodeType !== 1) {
-                continue;
+            if(childNodes[i].nodeType !== 1) { 
+                continue; 
             }
             if(childNodes[i] === clickedListItem) {
                 index = nodeIndex;
@@ -376,10 +376,10 @@ $(function () {
             if(!vars[i]) {
                 continue;
             }
-            var pair = vars[i].split('=');
+            var pair = vars[i].split('=');  
             if(pair.length < 2) {
                 continue;
-            }
+            }           
             params[pair[0]] = pair[1];
         }
         if(params.gid) {
@@ -404,11 +404,11 @@ $(function () {
                 // See Options -> getThumbBoundsFn section of docs for more info
                 var thumbnail = items[index].el.getElementsByTagName('img')[0], // find thumbnail
                     pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
-                    rect = thumbnail.getBoundingClientRect();
+                    rect = thumbnail.getBoundingClientRect(); 
                 return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
             },
            history: false,
-           focus: false
+           focus: false 
         };
         if(disableAnimation) {
             options.showAnimationDuration = 0;
@@ -434,7 +434,7 @@ $(function () {
 /**************************************
  * Page Load
 ***************************************/
-
+				 
 	   if($(".animsition").length){
 	   $(".animsition").animsition({
 		inClass               :   'fade-in',
@@ -444,7 +444,7 @@ $(function () {
 		linkElement           :   '.animsition-link',
 		   // e.g. linkElement   :   'a:not([target="_blank"]):not([href^=#])'
 		loading               :    true,
-		loadingParentElement  :   'body',
+		loadingParentElement  :   'body', 
 		unSupportCss          : [ 'animation-duration',
 								  '-webkit-animation-duration',
 								  '-o-animation-duration'
