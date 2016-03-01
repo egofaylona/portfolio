@@ -50,7 +50,8 @@ body {
 }
 
 .filters {
-  margin-left: 0;
+  margin-left: -25px;
+  margin-bottom: -20px;
 }
 
 .w-slider-mask {
@@ -157,6 +158,11 @@ a.text-link:hover {
 /* Contact page */
 .contact-container {
   margin-top: 70px;
+}
+
+.item {
+  margin-bottom: 0;
+  padding: 10px;
 }
 
 /* Responsive Stuff */

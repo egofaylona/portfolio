@@ -10,7 +10,7 @@ mixin item(params)
   - itemId = params['itemId']
   - itemType = params['itemType']
   - itemThumbnail = 'images/items/th-' + itemType + '-' + itemId + '.png'
-  .item(class=itemType)
+  .item.item-4-columns(class=itemType)
     .portfolio-overlay.wow.fadeInUp(data-ix='hover-portfolio-content')
       img(src=itemThumbnail)
       a.w-inline-block.portfolio-content.animsition-link(href='/item-#{itemType}-#{itemId}.html', data-ix='hide-portfolio-content-on-load')
