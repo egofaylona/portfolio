@@ -36,11 +36,12 @@ body {
   /*background-image: url('../images/logo_150-bw.png');*/
   background-image: url('../images/logo_150-sprite.png');
   background-size: 150px;
-  display: inline-block;
+  display: table;
   float: left;
   height: 150px;
   width: 150px;
   margin-top: -25px;
+  margin-left: -10px;
   background-repeat: no-repeat;
   background-position: left top;
 }
@@ -190,6 +191,10 @@ a.text-link:hover {
 
   .responsive-nav {
     padding: 0 20px;
+  }
+
+  .filters {
+    margin-left: 0;
   }
 
   .filter-cont {
