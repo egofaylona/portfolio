@@ -4312,7 +4312,7 @@
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
 		"asi": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"bitwise": {
