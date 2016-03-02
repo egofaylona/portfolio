@@ -218,9 +218,9 @@ function concatValues( obj ) {
 Royal_Preloader.config({
                 // mode:       'line',
                 mode: 'logo',
-                logo: '../../images/logo_150-c.png',
-                logo_size: [150,150],
-                timeout:    10,
+                logo: '../../images/logo_400-c_outline.png',
+                logo_size: [200,200],
+                timeout:    5,
                 background: '#fff',
                 showPercentage: true
 });

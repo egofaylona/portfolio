@@ -2076,6 +2076,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/logo_150-bw_outline.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4624,
+		"inputAbbreviatedPath": "\/images\/logo_150-bw_outline.png",
+		"outputAbbreviatedPath": "\/images\/logo_150-bw_outline.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logo_150-c.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2083,6 +2094,17 @@
 		"initialSize": 3957,
 		"inputAbbreviatedPath": "\/images\/logo_150-c.png",
 		"outputAbbreviatedPath": "\/images\/logo_150-c.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_150-c_outline.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5126,
+		"inputAbbreviatedPath": "\/images\/logo_150-c_outline.png",
+		"outputAbbreviatedPath": "\/images\/logo_150-c_outline.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2131,6 +2153,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/logo_400-bw_outline.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16592,
+		"inputAbbreviatedPath": "\/images\/logo_400-bw_outline.png",
+		"outputAbbreviatedPath": "\/images\/logo_400-bw_outline.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/logo_400-c.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2138,6 +2171,17 @@
 		"initialSize": 9056,
 		"inputAbbreviatedPath": "\/images\/logo_400-c.png",
 		"outputAbbreviatedPath": "\/images\/logo_400-c.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/logo_400-c_outline.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13912,
+		"inputAbbreviatedPath": "\/images\/logo_400-c_outline.png",
+		"outputAbbreviatedPath": "\/images\/logo_400-c_outline.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3878,6 +3922,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/jquery.js",
+		"outputAbbreviatedPath": "\/js\/min\/jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/jquery.mb-comingsoon.min.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -3961,6 +4016,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/plugins.js",
 		"outputAbbreviatedPath": "\/js\/min\/plugins-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/royal_preloader.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/royal_preloader.js",
+		"outputAbbreviatedPath": "\/js\/min\/royal_preloader-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
