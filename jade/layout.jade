@@ -9,11 +9,7 @@ html(lang='en-US')
     block config
     - siteName = 'Ego Faylona | Portfolio: ' + pageTitle
     
-    //- SITE TITTLE
-    meta(charset='utf-8')
-    title= siteName
-    meta(name='viewport', content='width=device-width, initial-scale=1')
-    meta(name='generator', content='HTML5 Template')
+    include _head.jade
 
     block scripts
     include _styles.jade
@@ -21,8 +17,9 @@ html(lang='en-US')
     
     include _favicon.jade
 
+  //- body.royal_preloader.animsition
   body.royal_preloader.animsition
-    
+  
     //- ROYAL PRELOADER
     #royal_preloader
 

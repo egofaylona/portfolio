@@ -3977,6 +3977,39 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/royal_preloader\/jquery.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/royal_preloader\/jquery.js",
+		"outputAbbreviatedPath": "\/js\/royal_preloader\/min\/jquery-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/royal_preloader\/royal_preloader.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/royal_preloader\/royal_preloader.js",
+		"outputAbbreviatedPath": "\/js\/royal_preloader\/min\/royal_preloader-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/royal_preloader\/royal_preloader.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/royal_preloader\/royal_preloader.min.js",
+		"outputAbbreviatedPath": "\/js\/royal_preloader\/min\/royal_preloader.min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/scripts.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -4279,7 +4312,7 @@
 	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
 		"asi": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"bitwise": {
