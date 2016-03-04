@@ -112,9 +112,12 @@ a.text-link:hover {
 
 .about-photo-container {
   overflow: hidden;
+  display: table;
   width: 250px;
   height: 250px;
   border-radius: 500px;
+  background-image: url('../images/about-me-photo-01.jpg');
+  background-size: cover;
 }
 
 .button {
