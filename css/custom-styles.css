@@ -101,7 +101,7 @@ a.text-link {
   color: #333;
   font-size: 15px;
   line-height: 26px;
-  border-bottom: 1px dotted #ccc;
+  border-bottom: 1px dotted #999;
   text-decoration: none;
 }
 
@@ -169,10 +169,24 @@ a.text-link:hover {
   padding: 10px;
 }
 
+h4.about-blurb {
+  font-family: Lekton, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
 /* Responsive Stuff */
 @media screen and (min-width: 1400px) {
   .w-container {
     max-width: 100%;
+  }
+
+  .about-left-side {
+    width: 35%;
+  }
+
+  .about-right-side {
+    width: 65%;
   }
 }
 
