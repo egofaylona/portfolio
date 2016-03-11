@@ -1,0 +1,48 @@
+doctype html
+
+html(lang='en-US')
+
+  head
+  
+    block config
+    - siteName = 'Ego Faylona | Portfolio: Identified Employee Timeline'
+    
+    include _head.jade
+
+    script(type='text/javascript', src='js/jquery-1.11.3.min.js')
+    script(type='text/javascript', src='js/jquery.elevatezoom.js')
+    
+    style(type='text/css').
+      body {
+        margin: 0 auto;
+        padding: 20px;
+        height: 100%;
+      }
+      .main {
+        height: 100%;
+        width: 100%;
+        display: table;
+      }
+      .wrapper {
+        display: table-cell;
+        height: 100%;
+        vertical-align: middle;
+      }
+      #zoom_01 {
+        width: 100%;
+      }
+
+    
+  body
+    //- h1 Identified Employee Timeline
+    .main
+      .wrapper
+        img#zoom_01(src='images/items/art-idtimeline-01-large.jpg', data-zoom-image='images/items/art-idtimeline-01-large-01.png')
+
+  script.
+    $('#zoom_01').elevateZoom({
+    zoomType: "inner",
+    cursor: "crosshair",
+    zoomWindowFadeIn: 500,
+    zoomWindowFadeOut: 350
+    });

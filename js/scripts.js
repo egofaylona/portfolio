@@ -219,10 +219,10 @@ Royal_Preloader.config({
                 // mode:       'line',
                 mode: 'logo',
                 logo: '../../images/logo_400-c_outline.png',
-                logo_size: [200,200],
-                timeout:    5,
+                logo_size: [350,350],
+                timeout:    12,
                 background: '#fff',
-                showPercentage: true
+                // showPercentage: true
 });
 
 /**************************************
