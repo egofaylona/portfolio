@@ -78,6 +78,10 @@ body {
   object-fit: contain;
 }
 
+.img-cover {
+  object-fit: cover !important;
+}
+
 iframe.videoContainer {
   display: block;
   /*object-fit: contain;*/
