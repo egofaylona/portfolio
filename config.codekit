@@ -943,6 +943,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/items\/mob-careeradvice-03.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 601322,
+		"inputAbbreviatedPath": "\/images\/items\/mob-careeradvice-03.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-careeradvice-03.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-careeradvice-04.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 555444,
+		"inputAbbreviatedPath": "\/images\/items\/mob-careeradvice-04.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-careeradvice-04.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-careeradvice-05.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 918051,
+		"inputAbbreviatedPath": "\/images\/items\/mob-careeradvice-05.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-careeradvice-05.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/items\/mob-careeradvice-06.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 626606,
+		"inputAbbreviatedPath": "\/images\/items\/mob-careeradvice-06.png",
+		"outputAbbreviatedPath": "\/images\/items\/mob-careeradvice-06.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/items\/mob-citi-01.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2177,15 +2221,6 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/item-mob-basf.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/item-mob-careeradvice.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/item-mob-careeradvice.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
