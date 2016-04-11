@@ -280,3 +280,7 @@ h4.about-blurb {
     margin:0 0 20px 0;
   }
 }
+
+.social-icon.linkedin:hover {
+  color: #007bb6;
+}
